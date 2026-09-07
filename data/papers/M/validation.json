@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.1.0",
+  "expected_question_numbers": "1-150",
+  "detected_question_records": 300,
+  "language_counts": {
+    "en": 150,
+    "hi": 150
+  },
+  "missing_core_bilingual_questions": [],
+  "duplicate_records": [],
+  "review_records": 0,
+  "missing_main_answers": [],
+  "missing_en_answers": [],
+  "missing_hi_answers": [],
+  "visual_fallback_questions": [
+    "37"
+  ],
+  "status": "PASS",
+  "publication_status": "published",
+  "inference_used": false,
+  "warnings": [
+    "Q37 options use a visual fallback because native text extraction did not preserve fraction glyphs."
+  ],
+  "answer_sources": {
+    "main_q1_q90": "M answer sheet.pdf (official supplied Set M PAPER-I-MAIN sheet)",
+    "q91_q150_en": "CTET FEB-2026 FINAL ANSWER KEY, Set M PAPER-I-01-English (Page 123)",
+    "q91_q150_hi": "CTET FEB-2026 FINAL ANSWER KEY, Set M PAPER-I-02-Hindi (Page 127)",
+    "inference_used": false
+  }
+}

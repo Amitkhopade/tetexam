@@ -1,0 +1,26 @@
+{
+  "dataset_version": "1.1.0",
+  "paper_id": "ACF-26-I-N",
+  "questions": 300,
+  "languages": {
+    "en": 150,
+    "hi": 150
+  },
+  "main_answers": 90,
+  "language_variant_answers": {
+    "en": 60,
+    "hi": 60
+  },
+  "missing_main": [],
+  "missing_en": [],
+  "missing_hi": [],
+  "visual_fallback_questions": [
+    "Q41"
+  ],
+  "status": "PASS",
+  "publication_status": "READY",
+  "notes": [
+    "Q41 option fractions are retained via visual fallback asset.",
+    "All answer values are supported by official answer-key sources; no inferred answer was needed."
+  ]
+}

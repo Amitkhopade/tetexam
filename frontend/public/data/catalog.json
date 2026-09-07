@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.1.0",
+  "papers": [
+    {
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "exam": "SED-24-I",
+      "session": "DEC-2024",
+      "exam_date": "2024-12-14",
+      "title": "SED-24-I Paper I - Set H",
+      "booklet_code": "H",
+      "question_count": 150,
+      "available_languages": [
+        "en"
+      ],
+      "questions": "H/questions.json",
+      "answer_key": "H/answer_key.json",
+      "paper": "H/paper.json",
+      "validation": "H/validation.json",
+      "status": "review"
+    },
+    {
+      "paper_id": "ACF-26-I-PAPER-I-K",
+      "exam": "ACF-26-I",
+      "session": null,
+      "exam_date": null,
+      "title": null,
+      "booklet_code": "K",
+      "question_count": null,
+      "available_languages": [
+        "en",
+        "hi"
+      ],
+      "questions": "K/questions.json",
+      "answer_key": "K/answer_key.json",
+      "paper": "K/paper.json",
+      "validation": null,
+      "status": "published"
+    },
+    {
+      "paper_id": "ACF-26-I-PAPER-I-L",
+      "exam": "ACF-26-I",
+      "session": null,
+      "exam_date": null,
+      "title": null,
+      "booklet_code": "L",
+      "question_count": null,
+      "available_languages": [
+        "en",
+        "hi"
+      ],
+      "questions": "L/questions.json",
+      "answer_key": "L/answer_key.json",
+      "paper": "L/paper.json",
+      "validation": null,
+      "status": "published"
+    },
+    {
+      "paper_id": "ACF-26-I-PAPER-I-M",
+      "exam": "ACF-26-I",
+      "session": null,
+      "exam_date": null,
+      "title": "ACF-26-I • Paper I • Set M",
+      "booklet_code": "M",
+      "question_count": null,
+      "available_languages": [
+        "en",
+        "hi"
+      ],
+      "questions": "M/questions.json",
+      "answer_key": "M/answer_key.json",
+      "paper": "M/paper.json",
+      "validation": "M/validation.json",
+      "status": "published"
+    },
+    {
+      "paper_id": "ACF-26-I-PAPER-I-N",
+      "exam": "ACF-26-I",
+      "session": null,
+      "exam_date": "2026-03-01",
+      "title": null,
+      "booklet_code": "N",
+      "question_count": null,
+      "available_languages": [
+        "en",
+        "hi"
+      ],
+      "questions": "N/questions.json",
+      "answer_key": "N/answer_key.json",
+      "paper": "N/paper.json",
+      "validation": "N/validation.json",
+      "status": "published"
+    }
+  ]
+}

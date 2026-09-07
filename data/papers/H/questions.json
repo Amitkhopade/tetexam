@@ -1,0 +1,4584 @@
+{
+  "schema_version": "1.1.0",
+  "paper_id": "SED-24-I-PAPER-I-H",
+  "exam": "SED-24-I",
+  "session": "DEC-2024",
+  "booklet_code": "H",
+  "question_count": 150,
+  "question_records": 150,
+  "questions": [
+    {
+      "id": "SED-24-I-H-Q001-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 1,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Mastery Oriented learners typically attribute success to __________ and failure to __________.",
+      "options": {
+        "1": "ability and good luck; task difficulty",
+        "2": "ability and effort; bad luck",
+        "3": "ability and good luck; low ability",
+        "4": "ability and effort; insufficient effort"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 2,
+        "printed_page": 2,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q002-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 2,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which of the following statement represents ‘Proximodistal’ principle of development ?",
+      "options": {
+        "1": "Development is multidirectional and multidimensional.",
+        "2": "Identical twins living in different cultures can develop at different rates.",
+        "3": "Children develop ability to grasp the ball before putting beads in thread.",
+        "4": "Children develop ability to sit up before standing."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 2,
+        "printed_page": 2,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q003-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 3,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "According to Vygotsky children speak to themselves :",
+      "options": {
+        "1": "To aid thought and for self-regulation.",
+        "2": "To provide self-reinforcement when adults are ignoring them.",
+        "3": "Because they are egocentric.",
+        "4": "Because their thought is illogical."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 2,
+        "printed_page": 2,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q004-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 4,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Challenges in social communication are evident in :",
+      "options": {
+        "1": "Attention deficit hyperactivity disorder",
+        "2": "Cerebral palsy",
+        "3": "Autism Spectrum Disorder",
+        "4": "Learning Disabilities 3"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 2,
+        "printed_page": 2,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q005-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 5,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "According to Vygotsky’s theory of learning and development, which of the following is an example of scaffolding ?",
+      "options": {
+        "1": "Breaking a task down into smaller steps and providing support as needed.",
+        "2": "Providing a student with a grade for their work as motivation.",
+        "3": "Providing a student with a reading assignment and asking them to answer questions independently.",
+        "4": "Demonstrating a skill to a student and then having them master it on their own."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 3,
+        "printed_page": 3,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q006-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 6,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Dysgraphia is characterised by :",
+      "options": {
+        "1": "Delayed motor skills",
+        "2": "Difficulties in writing",
+        "3": "Lack of reading fluency",
+        "4": "Repetitive behavioural patterns"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 3,
+        "printed_page": 3,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q007-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 7,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "In order to help students to become good problem solvers, a teacher should emphasize on the practice of :",
+      "options": {
+        "1": "focusing on information that confirms existing beliefs and preconceptions.",
+        "2": "approaching problems in a particular fixed fashion.",
+        "3": "breaking large complex problems into smaller manageable problems.",
+        "4": "centering only on one particular piece of information related to problem."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 3,
+        "printed_page": 3,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q008-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 8,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Assertion (A) : Teachers should use multisensory materials to cater to needs of students in an inclusive classroom. Reason (R) : Inclusive classrooms should adopt standardization of curricular materials as well as assessment strategies. Choose the correct option :",
+      "options": {
+        "1": "(A) is true but (R) is false.",
+        "2": "Both (A) and (R) are false.",
+        "3": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "4": "Both (A) and (R) are true but (R) is not the correct explanation of (A). 4"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 3,
+        "printed_page": 3,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q009-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 9,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "In the constructivist view :",
+      "options": {
+        "1": "Individuals are passively influenced by environmental events.",
+        "2": "Individuals are conditioned to learn new behaviours.",
+        "3": "Learning is extending and transforming the current understanding.",
+        "4": "Learning is simply writing associations on the blank slates of our brains."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 4,
+        "printed_page": 4,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q010-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 10,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Assertion (A) : Effective teachers familiarize themselves with daily lives and socio-cultural backgrounds of learners. Reason (R) : Learning takes place in a social context. Choose the correct option.",
+      "options": {
+        "1": "(A) is true but (R) is false.",
+        "2": "Both (A) and (R) are false.",
+        "3": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "4": "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 4,
+        "printed_page": 4,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q011-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 11,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Meaningful learning is primarily NOT about :",
+      "options": {
+        "1": "memorizing information",
+        "2": "understanding the concept",
+        "3": "constructing knowledge",
+        "4": "developing skills 5"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 4,
+        "printed_page": 4,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q012-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 12,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Assertion (A) : Teacher should encourage boys of her class to participate in sports while assigning art decoration to girls. Reason (R) : Children acquire gender roles primarily because of the underlying biological differences. Choose the correct option.",
+      "options": {
+        "1": "(A) is true but (R) is false.",
+        "2": "Both (A) and (R) are false.",
+        "3": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "4": "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 5,
+        "printed_page": 5,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q013-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 13,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Kinesthetic learners prefer to learn through __________.",
+      "options": {
+        "1": "seeing",
+        "2": "touching",
+        "3": "doing and moving",
+        "4": "listening"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 5,
+        "printed_page": 5,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q014-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 14,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "According to Howard Gardner while a scientist would exhibit high __________ Intelligence, a sculptor would have high __________ Intelligence.",
+      "options": {
+        "1": "Naturalistic; Spatial",
+        "2": "Transductive; Spatial",
+        "3": "Logical-mathematical; Bodily Kinesthetic",
+        "4": "Spatial; Bodily Kinesthetic"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 5,
+        "printed_page": 5,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q015-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 15,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Inclusion needs to be promoted through : (i) Flexible curriculum (ii) Cooperative learning (iii) Segregation and labelling (iv) Accessibility of building",
+      "options": {
+        "1": "(ii) (iii) (iv) (ii) (iii) (iv)",
+        "2": "(i) (ii) (iii) (iv) (i) (ii) (iii) (iv)",
+        "3": "(i) (ii) (iii) (i) (ii) (iii)",
+        "4": "(i) (ii) (iv) (i) (ii) (iii) (iv) (i) (ii) (iv) 6"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 5,
+        "printed_page": 5,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q016-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 16,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Children learn better if they experience :",
+      "options": {
+        "1": "Low level of alertness during activity",
+        "2": "Moderate level of excitement to learn",
+        "3": "High degree of anxiety to perform",
+        "4": "Learned helplessness"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 6,
+        "printed_page": 6,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q017-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 17,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Assertion (A) : Children below the age of 5 - 6 years should not be pressurized to write ‘properly’ and ‘within the lines’. Reason (R) : Children gain a control of finer motor skills from 5 - 6 years onwards. Choose the correct option.",
+      "options": {
+        "1": "(A) is true but (R) is false.",
+        "2": "Both (A) and (R) are false.",
+        "3": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "4": "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 6,
+        "printed_page": 6,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q018-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 18,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Children often come up with their own explanations of events around them. On being probed as to why does it rain Sia says - “God was tired of carrying the buckets of water on his shoulders”. Such explanations :",
+      "options": {
+        "1": "Depict that children have an egocentric view and cannot consider other’s viewpoint.",
+        "2": "Illustrate that children are not capable of any reasoning.",
+        "3": "Prove that children’s thinking is much lesser than adults quantitively.",
+        "4": "Indicate that children have naïve understanding rooted in their cultural context with which they try to understand events."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 6,
+        "printed_page": 6,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q019-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 19,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Piaget described cognitive development as occurring in :",
+      "options": {
+        "1": "A continuous continuum",
+        "2": "Four overlapping culture specific stages",
+        "3": "Four qualitatively different stages",
+        "4": "Three progressive levels 7"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 6,
+        "printed_page": 6,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q020-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 20,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "During play time at school, Rishab, a 7-year-old boy picked a doll to play with. Some of his peers made fun of him for his choice of toy. As a teacher who wants his students to grow up with gender role flexibility, which of the following would be the best response to the situation by the teacher ?",
+      "options": {
+        "1": "Talk to Rishabh that dolls are suitable for girls and boys should not play with dolls.",
+        "2": "Tell Rishabh that he should play with something else because his friends won’t approve of him playing with doll.",
+        "3": "Let Rishabh play with doll and tell other children that they can also choose any toy of their choice.",
+        "4": "Quitely take away the doll and give a car toy to Rishabh without saying anything."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 7,
+        "printed_page": 7,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q021-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 21,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "In developmental terms, a time frame where an individual upholds an amplified sensitivity to particular incentives for developing particular skills to function in an efficient manner is referred to as __________ of development.",
+      "options": {
+        "1": "Incentive period",
+        "2": "Stimulus period",
+        "3": "Critical period",
+        "4": "Encoding period"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 7,
+        "printed_page": 7,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q022-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 22,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "In order to cater to needs of students struggling with Attention Deficit Hyperactivity Disorder teachers should avoid :",
+      "options": {
+        "1": "Creating distractions and making noises",
+        "2": "Flexibility in curricular materials and instructions",
+        "3": "Breaking the task into small easily manageable parts",
+        "4": "Using multi-sensory materials 8"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 7,
+        "printed_page": 7,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q023-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 23,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Lawrence Kohlberg argued that :",
+      "options": {
+        "1": "moral development in children occurs in a continuous manner.",
+        "2": "there are cultural differences in moral reasoning of children.",
+        "3": "moral development occurs progressively in stages.",
+        "4": "there are gender differences in moral reasoning of children."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 8,
+        "printed_page": 8,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q024-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 24,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "At which level of Kohlberg’s moral development does individual’s ethical behavior mainly depends on the mindset that “what do people think of me”?",
+      "options": {
+        "1": "Postconventional",
+        "2": "Non-conventional",
+        "3": "Preconventional",
+        "4": "Conventional"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 8,
+        "printed_page": 8,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q025-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 25,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "According to Jean Piaget a child who is unable to understand the logic behind simple mathematical reversals such as 4+5=9 so 9−5=4, it is because of :",
+      "options": {
+        "1": "animistic thinking",
+        "2": "irreversibility",
+        "3": "egocentrism",
+        "4": "perceptual centration"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 8,
+        "printed_page": 8,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q026-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 26,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Assertion (A) : Teachers should distance themselves from students and place primary responsibility for learning on them only. Reason (R) : Learning takes place affectively in an authoritative rather than a democratic environment. Choose the correct option.",
+      "options": {
+        "1": "(A) is true but (R) is false.",
+        "2": "Both (A) and (R) are false.",
+        "3": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "4": "Both (A) and (R) are true but (R) is not the correct explanation of (A). 9"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 8,
+        "printed_page": 8,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q027-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 27,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Assertion (A) : Scaffolding provided by the teachers hinders the learning process of children. Reason (R) : Lev Vygotsky proposed that children learn independently by acting upon and manipulating the environment. Choose the correct option :",
+      "options": {
+        "1": "(A) is true but (R) is false.",
+        "2": "Both (A) and (R) are false.",
+        "3": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "4": "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 9,
+        "printed_page": 9,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q028-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 28,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which of the following correctly describes extrinsic motivation ?",
+      "options": {
+        "1": "Motivation that comes from environmental consequences.",
+        "2": "Motivation that comes from a sense of personal satisfaction.",
+        "3": "Motivation that comes from personal enjoyment of the task.",
+        "4": "Motivation that comes from internal factors."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 9,
+        "printed_page": 9,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q029-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 29,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Two important cognitive development milestones of sensorimotor stage of Piaget’s theory of cognitive development are :",
+      "options": {
+        "1": "Animism and Transformation",
+        "2": "Classification and seriation",
+        "3": "Object permanence and deferred imitation",
+        "4": "Reversibility of thought and hypothetic-deductive reasoning"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 9,
+        "printed_page": 9,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q030-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 30,
+      "part": "I",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Children -",
+      "options": {
+        "1": "Are born unruly and need to be socialized.",
+        "2": "Come into this world with genetic codes that determine their destiny.",
+        "3": "Are greatly influenced by the social cultural context they grow up in.",
+        "4": "Come into this world as tabula rasa or blank slate. 10 PART - II / ÷Êª - II Direction : Answer the following questions by selecting the correct/most appropriate options."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 9,
+        "printed_page": 9,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q031-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 31,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "What is the result when 7 kg 7 g is subtracted from 9 kg ?",
+      "options": {
+        "1": "1.93 kg",
+        "2": "1.093 kg",
+        "3": "1.3 kg",
+        "4": "1.993 kg"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 10,
+        "printed_page": 10,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q032-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 32,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "In class III, 150 children were asked to name their one favourite fruit and results for 5 favourite fruits were written in the form of the following table : Name of the Fruit Number of Children Apple 28 Guava 26 Mangoes 44 Banana 14 Grapes 28 Choose the correct option :",
+      "options": {
+        "1": "Equal number of children have Apple and Guava as their favourite fruit.",
+        "2": "The difference between the number of childrens who like grapes and those who like bananas is 16.",
+        "3": "The number of children who like Mangoes and Banana is two times the number of children who like Guava.",
+        "4": "Ten children do not like any fruit given in the table. \\$b H$m Zm_ ~ÀMm| H$s g§»`m go~ 28 A_ê$X 26 Am_ 44 Ho$bm 14 A§Jya 28 11"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 10,
+        "printed_page": 10,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q033-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 33,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following is least appropriate about Formative Assessment in mathematics classrooms ?",
+      "options": {
+        "1": "It helps to identify students’ misconceptions",
+        "2": "It provides cumulative evaluations that helps to rank children",
+        "3": "To check the progress of students during instructional activities",
+        "4": "To identify students’ conceptual understanding"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 11,
+        "printed_page": 11,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q034-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 34,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A person withdrew ` 4,560 from his bank account on 4th of a month and deposited ` 2,567 on 20th of the same month. If at the end of the month, balance is ` 3,125, then money (in `) at the start of the month in his account was :",
+      "options": {
+        "1": "5,128",
+        "2": "5,118",
+        "3": "4,998",
+        "4": "5,213 12"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 11,
+        "printed_page": 11,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q035-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 35,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A primary class mathematics teacher gave his students the following problem to solve : “How many classes of 28 pupils would be needed for a school of 616 pupils ?” One of the student solved the problem in the following way : 1 Class=28 Pupils 10 → 2 8 0 10 → 2 8 0 5 6 0 2 → 5 6 → 10+10+2=22 Classes 6 1 6 Which of the following is most appropriate for the algorithm used by the student ?",
+      "options": {
+        "1": "The student has used both the distributive and associative laws of division to solve the problem",
+        "2": "The student has used an incorrect algorithm to solve the problem",
+        "3": "The student has used the associative law of division across addition to solve the problem",
+        "4": "The student has used the distributive law of division across addition to solve the problem 10 → 2 8 0 10 → 2 8 0 5 6 0 2 → 5 6 6 1 6"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 12,
+        "printed_page": 12,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q036-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 36,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A triangle having all sides of different lengths is called :",
+      "options": {
+        "1": "A scalene triangle",
+        "2": "A right triangle",
+        "3": "An equilateral triangle",
+        "4": "An isosceles triangle 13"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 12,
+        "printed_page": 12,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q037-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 37,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The sum of the prime numbers between 31 and 60 is :",
+      "options": {
+        "1": "280",
+        "2": "311",
+        "3": "221",
+        "4": "227"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 13,
+        "printed_page": 13,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q038-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 38,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The product of the predecessor of 201 and the successor of 4781 is :",
+      "options": {
+        "1": "965560",
+        "2": "965650",
+        "3": "956200",
+        "4": "956400"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 13,
+        "printed_page": 13,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q039-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 39,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "What is the most appropriate cognitive skill that help students to recognize and group shapes according to their attributes and properties ?",
+      "options": {
+        "1": "Conservation",
+        "2": "Decomposition",
+        "3": "Classification",
+        "4": "Seriation"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 13,
+        "printed_page": 13,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q040-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 40,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Students feel difficulty in solving division problems because :",
+      "options": {
+        "1": "Division problems have no utility in daily life.",
+        "2": "There are no informal ways of solving division problems",
+        "3": "For solving division problems students need to know addition, subtraction and multiplication thoroughly.",
+        "4": "Students do not like the sign of division. 14"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 13,
+        "printed_page": 13,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q041-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 41,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Most II graders are able to add two quantities like four candies and three candies, but when asked to do 4+5 on a worksheet a large number of the same set of learners is unable to do so. What is the most appropriate explanation of this observation according to National Curriculum Framework 2005 ?",
+      "options": {
+        "1": "Learners are not interested in learning real-life mathematics",
+        "2": "The learners are not ready for the use of abstract mathematical symbols",
+        "3": "Learners are not taught addition properly",
+        "4": "Some learners are poor in mathematical skills"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 14,
+        "printed_page": 14,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q042-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 42,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A 3rd standard student, when asked to write one hundred and five in numeral form, s/he writes it as ‘1005’. This indicates that :",
+      "options": {
+        "1": "s/he needs more help in understanding the concept of place value",
+        "2": "s/he is unfit to learn mathematics",
+        "3": "The student is a slow learner",
+        "4": "s/he is mischievous 15"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 14,
+        "printed_page": 14,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q043-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 43,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following statements is NOT true with respect to the concept of Fractions ?",
+      "options": {
+        "1": "It represents a part of a collection of same objects",
+        "2": "The mathematical notation of a fraction can be represented as a ratio",
+        "3": "It represents a part of a whole which is greater than 1",
+        "4": "The mathematical notation of a fraction can be represented as a division problem"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 15,
+        "printed_page": 15,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q044-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 44,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Radha walks 3 km 725 m per day on Monday, Wednesday and Friday, whereas she walks 2 km 9 m per day on Tuesday and Thursday. Total distance covered by her from Monday to Friday is :",
+      "options": {
+        "1": "15.355 km",
+        "2": "15.193 km",
+        "3": "16.975 km",
+        "4": "16.202 km"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 15,
+        "printed_page": 15,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q045-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 45,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Jasmine said, “A rectangle has two pairs of opposite sides parallel; a square also has two pairs of opposite sides parallel and so does a parallelogram. So, both rectangle and square are also parallelograms.” Jasmine is at _________ stage of Van Hieles theory of geometric thinking.",
+      "options": {
+        "1": "Formal Deduction",
+        "2": "Visualization",
+        "3": "Analysis",
+        "4": "Relationships"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 15,
+        "printed_page": 15,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q046-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 46,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The sum of the greatest and smallest six digit numbers that can be formed from the digits 5, 9, 0, 2, 8 and 6 (without repetition) is :",
+      "options": {
+        "1": "1192290",
+        "2": "1192209",
+        "3": "1292290",
+        "4": "1292209 16"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 15,
+        "printed_page": 15,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q047-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 47,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The missing numbers in the pattern 12, 14, 17, 13, 8, 14, 21, _, _ are respectively :",
+      "options": {
+        "1": "14, 5",
+        "2": "13, 4",
+        "3": "15, 7",
+        "4": "12, 3"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 16,
+        "printed_page": 16,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q048-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 48,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The smallest four-digit number which is a multiple of 6, 7 and 4 is :",
+      "options": {
+        "1": "1006",
+        "2": "1008",
+        "3": "1000",
+        "4": "1002"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 16,
+        "printed_page": 16,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q049-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 49,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following has a definite length ?",
+      "options": {
+        "1": "a ray",
+        "2": "a plane",
+        "3": "a line",
+        "4": "a line segment"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 16,
+        "printed_page": 16,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q050-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 50,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following is most appropriate for including open ended questions in mathematics class ?",
+      "options": {
+        "1": "These questions develop critical thinking in students",
+        "2": "Answers to these questions are not given in the book",
+        "3": "These questions take more time to solve",
+        "4": "These questions are not easy to copy from each other 17"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 16,
+        "printed_page": 16,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q051-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 51,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following statements are true with respect to ‘Data handling’ ?",
+      "options": {
+        "1": "A line graph is used to show comparison among categories of data.",
+        "2": "A histogram is used to compare the parts of a whole.",
+        "3": "A graphical representation of data is easier to understand when there is a trend or comparison to be shown.",
+        "4": "A bar graph displays data that changes continuously over periods of time."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 17,
+        "printed_page": 17,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q052-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 52,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "How many planks of size 2 m ×35 cm × 8 cm can be made from a wooden block 8 m long, 70 cm wide and 40 cm thick ?",
+      "options": {
+        "1": "45",
+        "2": "40",
+        "3": "50",
+        "4": "48"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 17,
+        "printed_page": 17,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q053-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 53,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A child solved a problem : 1 1 2 2 3 5 + = . What is the most appropriate inference drawn from the solution ?",
+      "options": {
+        "1": "Child does not know how to represent fractions on number line",
+        "2": "Child has extended the concept of addition of natural numbers to addition of fractions",
+        "3": "Child does not know addition of numbers",
+        "4": "Child does not know how to take L.C.M."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 17,
+        "printed_page": 17,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q054-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 54,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "According to National Education Policy 2020 Mathematics and Computational Thinking is to be given increased importance as :",
+      "options": {
+        "1": "It is foundational to evolving technologies like Artificial Intelligence (AI), machine learning and Data Science etc",
+        "2": "It can be a substitute for a teacher",
+        "3": "It is the most difficult aspect of learning in school",
+        "4": "It is foundational to human survival"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 18,
+        "printed_page": 18,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q055-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 55,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "According to National Curriculum Framework 2005 mathematics teachers need to shift towards : (a) Promoting memorization and rigorous algorithms (b) Mathematical reasoning and logic (c) Becoming sole authority for right answers Choose the correct option :",
+      "options": {
+        "1": "Only (b)",
+        "2": "(b) and (c)",
+        "3": "Only (a)",
+        "4": "(a) and (b) (a) (b) (c) 19"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 18,
+        "printed_page": 18,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q056-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 56,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following is the most effective way to introduce the concept of area to fourth graders ?",
+      "options": {
+        "1": "Formula based method",
+        "2": "Approximation and Estimation",
+        "3": "Tessellations",
+        "4": "Abacus"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 19,
+        "printed_page": 19,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q057-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 57,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The value of 4 5 7 7 14 8 + is : 4 5 7 7 14 8 +",
+      "options": {
+        "1": "3 56",
+        "2": "5 56",
+        "3": "3 14",
+        "4": "5 28"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 19,
+        "printed_page": 19,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q058-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 58,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following letters has two lines of symmetry ?",
+      "options": {
+        "1": "E",
+        "2": "U",
+        "3": "H",
+        "4": "B"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 19,
+        "printed_page": 19,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q059-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 59,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which of the following is NOT related to Indian mathematics ?",
+      "options": {
+        "1": "Surya Siddhant",
+        "2": "Baudhayan Sulba Sutra",
+        "3": "Lilavati",
+        "4": "Charak Samhita"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 19,
+        "printed_page": 19,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q060-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 60,
+      "part": "II",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The difference of the place values of 5 and 7 in the number 352876 is :",
+      "options": {
+        "1": "49997",
+        "2": "50007",
+        "3": "49930",
+        "4": "49993 20 PART - III / ÷Êª - III Direction : Answer the following questions by selecting the correct/most appropriate options."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 19,
+        "printed_page": 19,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q061-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 61,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Read the Assertion and Reason properly. Assertion : An elephant herd has only female and baby elephants. Reason : Male elephants leave their herd after 14 - 15 years and move around alone. Choose the correct answer from the following :",
+      "options": {
+        "1": "Assertion is true but Reason is false",
+        "2": "Assertion is false but Reason is true",
+        "3": "Both Assertion and Reason are true and Reason is the correct explanation of Assertion",
+        "4": "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 20,
+        "printed_page": 20,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q062-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 62,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Chapter 4 “Mangoes Round the Year” of NCERT Environmental Studies textbook has a story on making mango papad so that children not only understand the process and technique but also appreciate the skills of cooking and preservation. As per NCF 2005, which general objective of teaching EVS is being achieved through this lesson ?",
+      "options": {
+        "1": "To explain how much labor is needed to make an object.",
+        "2": "To discuss how various things can be made from the natural environment.",
+        "3": "To develop understanding with the help of observation and examples related to our experiences in place of abstraction.",
+        "4": "To develop an understanding of how Aam papad is made. 21"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 20,
+        "printed_page": 20,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q063-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 63,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Mohan is a class V teacher of Environmental Studies. He writes the following activity on the blackboard in his class. “Find out about the availability of water at the time of your parents and grandparents and compare it with the current situation.” For the above activity, which of the following strategies would be most appropriate ?",
+      "options": {
+        "1": "Role Play",
+        "2": "Project",
+        "3": "Discussion",
+        "4": "Interview"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 21,
+        "printed_page": 21,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q064-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 64,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Archana is a teacher of Environmental Studies teaching class IV. She forms two groups of children in her class and conducts a debate activity on the topic “Should the school have uniforms or not”. Why did Archana organize a debate in her class ? Which of the following may not be the most appropriate reason ? (A) Debate gives children an opportunity to think about and understand different aspects of a topic. (B) Children are encouraged to express their views in the classroom. (C) Children get an opportunity to share their experiences in the classroom. (D) Children assess the knowledge of their peers through debate.",
+      "options": {
+        "1": "(A), (C) and (D)",
+        "2": "(B) and (D)",
+        "3": "(B), (C) and (D)",
+        "4": "(A), (B) and (C)"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 21,
+        "printed_page": 21,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q065-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 65,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Child describes different skilled work related to farming and their inheritance (from elders) in daily life. The above statement is :",
+      "options": {
+        "1": "Learning indicator",
+        "2": "Learning objective",
+        "3": "Statement of competency",
+        "4": "Learning outcome"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 21,
+        "printed_page": 21,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q066-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 66,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "The state/union territory having coast on the Bay of Bengal is :",
+      "options": {
+        "1": "Karnataka",
+        "2": "Kerala",
+        "3": "Telangana",
+        "4": "Andhra Pradesh 22"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 21,
+        "printed_page": 21,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q067-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 67,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Lesson 13 in NCERT’s Class V Environmental Studies textbook describes the amazing journey of “Gaurav Jani”. This lesson is a part of which of the following themes ?",
+      "options": {
+        "1": "Interrelationship",
+        "2": "Work and Play",
+        "3": "Family and Friends",
+        "4": "Shelter"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 22,
+        "printed_page": 22,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q068-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 68,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "In a constructivist EVS classroom, which of the following is NOT seen to be happening ?",
+      "options": {
+        "1": "Children are just solving familiar problems.",
+        "2": "Children are using their experiences to make new connections between concepts.",
+        "3": "Children are learning by doing activities with concrete objects.",
+        "4": "Children’s experiences are being respected."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 22,
+        "printed_page": 22,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q069-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 69,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Siddhi is a teacher of class 4. She takes all the children of her class to the playground to play Kabbadi, while teaching them lesson 10 “Hu tu tu, hu tu tu” of the NCERT Environmental Studies textbook. Before playing the game, she also explains the rules of this game to all the children. Why does the teacher tell the children the rules before playing this game ? Which of the following may be the most appropriate reason ? (A) She wants to draw the attention of the children that in life like in sports, we make rules. (B) So that all the work is done properly. (C) We are all bound by the rules in the same way in the society by which we settle differences and conflicts among ourselves. (D) By making rules, the attention of all children is much more on the rules than on the game.",
+      "options": {
+        "1": "(C) and (D)",
+        "2": "(A) and (D)",
+        "3": "(A), (B) and (C)",
+        "4": "(A) and (B)"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 22,
+        "printed_page": 22,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q070-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 70,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Read the following statements and choose the correct option. Assertion (A) : Biomass and Fossil Fuels are the two main conventional sources of energy. Reason (R) : Conventional sources are those which are renewable in nature.",
+      "options": {
+        "1": "(A) is true, but (R) is false",
+        "2": "(A) is false, but (R) is true",
+        "3": "Both (A) and (R) are true",
+        "4": "Both (A) and (R) are false"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 23,
+        "printed_page": 23,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q071-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 71,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Consider the following statements A and B. Statement A : In 1969, Neil Armstrong was the first man to walk on the moon. Statement B : In 2007, Kalpana Chawla set a new record for the longest space flight by a woman. Select the correct code from the following :",
+      "options": {
+        "1": "A is correct but B is wrong",
+        "2": "A is wrong but B is correct",
+        "3": "A and B both are correct",
+        "4": "A and B both are wrong"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 23,
+        "printed_page": 23,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q072-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 72,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "It has been observed that some mistakes are made while observing the learning and progress of children. These mistakes may be the result of our biases. Which of the following information should not be recorded as a bias ?",
+      "options": {
+        "1": "Samples of the children’s work in the portfolio.",
+        "2": "Prior experiences regarding the ability and performance of the children.",
+        "3": "Previous results related to the examination of any one subject and any area thereof.",
+        "4": "Social background of the child. 24"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 23,
+        "printed_page": 23,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q073-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 73,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Read the Assertion (A) and Reason (R) carefully - Assertion (A) : The goats from which the soft pashmina wool is collected are found on very high altitudes of 5000 meters in extreme cold. Reason (R) : A coat of warm hair grows on goats body which protects it from extreme cold. Choose the correct option from the following :",
+      "options": {
+        "1": "(A) is true but (R) is false",
+        "2": "(A) is false but (R) is true",
+        "3": "Both (A) and (R) are true and (R) explains (A)",
+        "4": "Both (A) and (R) are true but (R) does not explain (A)"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 24,
+        "printed_page": 24,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q074-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 74,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Read the statements I and II. Statement I : Due to anaemia, children do not grow well, and their energy levels are low. Statement II : Anaemia affects both, children’s physical as well as mental health. Choose the correct answer from the following :",
+      "options": {
+        "1": "I is true but II is false",
+        "2": "I is false but II is true",
+        "3": "Both I and II are true",
+        "4": "Both I and II are false"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 24,
+        "printed_page": 24,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q075-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 75,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Select the correct match from the following :",
+      "options": {
+        "1": "Lavani - Tamil nadu",
+        "2": "Bharatnatyam - Odisha",
+        "3": "Kathak - Karnataka",
+        "4": "Bihu - Assam"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 24,
+        "printed_page": 24,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q076-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 76,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Cows have Short front teeth and Large and flat side teeth for which one of the following ?",
+      "options": {
+        "1": "Cutting grass and gnawing grass respectively",
+        "2": "Gnawing grass and cutting grass respectively",
+        "3": "Snipping grass and chewing grass respectively",
+        "4": "Chewing grass and snipping grass respectively 25"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 24,
+        "printed_page": 24,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q077-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 77,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What is the reason why tales and stories have been given an important place in the textbooks of Environmental Studies ? Which of the following may be the most appropriate reason ? (A) At the primary level, the teachers of Environmental Studies narrate tales and stories with interest, that is why they have been given an important place. (B) The use of stories has often been considered important in developing children’s sensitivity to environmental issues. (C) Because children easily relate themselves to the characters of the story, that is why they have been given an important place in the textbooks. (D) Tales and stories are liked by the society, that is why they have been given an important place in the textbooks of the environment.",
+      "options": {
+        "1": "(C) and (D)",
+        "2": "(A) and (B)",
+        "3": "(A) and (D)",
+        "4": "(B) and (C) (A) (B) (C) (D)"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 25,
+        "printed_page": 25,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q078-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 78,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "In the following question, Assertion and Reason are followed. Read the statements carefully and choose the correct option from the following : Assertion : In the lessons of NCERT’s Environmental Studies textbook, real incidents of common life, everyday problems and some burning problems related to today have been kept. Reason : Children can debate openly on all these problems, be aware of the problems, be sensitive to them and make correct understanding.",
+      "options": {
+        "1": "Assertion is true but Reason is false.",
+        "2": "Assertion is false but Reason is true.",
+        "3": "Both Assertion and Reason are correct and Reason is the correct explanation of Assertion.",
+        "4": "Assertion and Reason are correct but Reason is not the correct explanation of Assertion. 26"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 25,
+        "printed_page": 25,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q079-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 79,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "How much time ‘boiled milk’ takes for digestion in the stomach ? Choose the correct answer from the following :",
+      "options": {
+        "1": "4 hours",
+        "2": "5 hours",
+        "3": "2 hours",
+        "4": "3 hours"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 26,
+        "printed_page": 26,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q080-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 80,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "A person would not drown in the dead sea or a salty lake even if the person does not know how to swim. This is due to :",
+      "options": {
+        "1": "neither high nor low density of sea water",
+        "2": "volume of sea water",
+        "3": "high density of sea water",
+        "4": "low density of sea water"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 26,
+        "printed_page": 26,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q081-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 81,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which one of the following is a group consisting of elements only ?",
+      "options": {
+        "1": "Steel, Iron, Zinc",
+        "2": "Tin, Lithium, Sodium",
+        "3": "Sodium, Brass, Potassium",
+        "4": "Bronze, Copper, Aluminium"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 26,
+        "printed_page": 26,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q082-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 82,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "A teacher of Environmental Studies, while conducting an activity with some children, observes some important incidents and also makes a descriptive note of the same. Which of the following may be the tool of assessment ?",
+      "options": {
+        "1": "Observation List",
+        "2": "Anecdotal Records",
+        "3": "Rating Scale",
+        "4": "Portfolio"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 26,
+        "printed_page": 26,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q083-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 83,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Two Indian birds make nests which hang from the branches of trees or bushes. These two birds are :",
+      "options": {
+        "1": "Barbet and Sun-bird",
+        "2": "Tailor bird and Indian Robin",
+        "3": "Indian Robin and Weaver bird",
+        "4": "Sun-bird and Tailor bird 27"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 26,
+        "printed_page": 26,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q084-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 84,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Read the statements A and B carefully - Statement A : During the cold season lizards go into a long and deep sleep. Statement B : Some animals go into a long, deep sleep in certain seasons. Choose the correct answer from the following :",
+      "options": {
+        "1": "‘A’ is correct but ‘B’ is incorrect.",
+        "2": "‘A’ is incorrect but ‘B’ is correct.",
+        "3": "Both ‘A’ and ‘B’ are correct and ‘B’ explains ‘A’.",
+        "4": "Both ‘A’ and ‘B’ are correct but ‘B’ does not explain ‘A’."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 27,
+        "printed_page": 27,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q085-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 85,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "A teacher in his environmental studies class, divides the children into groups and asks them to collect some objects present in the school. After that he sits with the children and asks them to distribute those objects into different groups. Children divide objects into different groups on the basis of their properties. What could be the most appropriate purpose for the teacher to conduct this activity ?",
+      "options": {
+        "1": "Activity strengthens the cognitive domain to a greater extent than the other domains of learning in children.",
+        "2": "The activity develops the child’s understanding of all the concepts.",
+        "3": "At the primary stage, children learn better by interacting with each other.",
+        "4": "By doing the activity, children make very few mistakes in understanding the definition and facts. 28"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 27,
+        "printed_page": 27,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q086-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 86,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Rakesh is a teacher of Environmental Studies of class V. He asks the children in his class to do an activity. In which, all children observe which “object floats in water and which sinks in water” ? After the activity some children ask the teacher why some objects sink in water and some objects float in water. What is the most appropriate thing a teacher should do in the following situation ? (A) The teacher should tell the children that this is happening because of the density. (B) Give each child the freedom to observe, record their observations, and interpret those observations. (C) Provide opportunity to each child to hypothesize, test and make activity based generalizations. (D) Teacher should say that the main reason for this you will understand in your higher classes.",
+      "options": {
+        "1": "(C) and (D)",
+        "2": "(A) only",
+        "3": "(A), (B) and (C)",
+        "4": "(B) and (C)"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 28,
+        "printed_page": 28,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q087-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 87,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "It is 10 A.M. now in India today, it is around noon of today in _________.",
+      "options": {
+        "1": "Japan",
+        "2": "Singapore",
+        "3": "London",
+        "4": "Karachi"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 28,
+        "printed_page": 28,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q088-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 88,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "In a child centered EVS classroom, which of the following activities would be LEAST likely to occur ?",
+      "options": {
+        "1": "Children will also be seen sharing their experiences while discussing in the class.",
+        "2": "Children will be seen in the classroom, listening to the teacher.",
+        "3": "Children will be seen actively working in a variety of activities.",
+        "4": "The seating arrangement will be seen to change according to the activity of the children. 29"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 28,
+        "printed_page": 28,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q089-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 89,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "A person boarded an express train on 30 January 2023 at New Delhi for Bangalore. The train departed from New Delhi at 17 : 00 hours and reached Bangalore at 17 : 00 hours on 31st January 2023. If the distance between New Delhi and Bangalore by train route is nearly 1776 km. The average speed of the train during this Journey was :",
+      "options": {
+        "1": "77.21 km/hr",
+        "2": "71.04 km/hr",
+        "3": "74 km/hr",
+        "4": "80.72 km/hr"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 29,
+        "printed_page": 29,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q090-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 90,
+      "part": "III",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "In the following question, Assertion and Reason are followed. Read the statements carefully and choose the correct option from the following : Assertion : The curriculum of Environmental Studies is theme-based and each theme is interreleted. Reason : The main reason for keeping the syllabus of Environmental Studies theme-based is that it creates a deep understanding of each theme and each theme begins with questions.",
+      "options": {
+        "1": "Assertion is true but Reason is false.",
+        "2": "Assertion is false but Reason is true.",
+        "3": "Both Assertion and Reason are correct and Reason is the correct explanation of Assertion.",
+        "4": "Assertion and Reason are correct but Reason is not the correct explanation of Assertion. : 30 PART - IV LANGUAGE – I : ENGLISH IMPORTANT : Candidates should attempt questions from Part-IV (Q. No. 91-120), if they have opted for ENGLISH as LANGUAGE-I only. Read the passage given below and answer the questions that follow : (91-99) Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 29,
+        "printed_page": 29,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q091-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 91,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Mr. Upadhyay’s professional role in the institution was that of ...",
+      "options": {
+        "1": "a teacher",
+        "2": "the hostel warden",
+        "3": "an administrator",
+        "4": "the principal"
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 30,
+        "printed_page": 30,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q092-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 92,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "‘We had managed ... ’ Identify the tense of the underlined expression.",
+      "options": {
+        "1": "Past Indefinite",
+        "2": "Present Continuous",
+        "3": "Present Perfect",
+        "4": "Past Perfect 31"
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 30,
+        "printed_page": 30,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q093-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 93,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "How did Mrs. Upadhyay receive the boys at home ?",
+      "options": {
+        "1": "She received them coldly.",
+        "2": "She was displeased with her husband for bringing them home.",
+        "3": "She welcomed them.",
+        "4": "She was unhappy to see them."
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q094-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 94,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following statements is True/False ? (A) The boys had purchased the tickets in advance. (B) Mrs. Upadhyay supported the boys in their endeavour.",
+      "options": {
+        "1": "(A) is True but (B) is False.",
+        "2": "(B) is True but (A) is False.",
+        "3": "Both (A) and (B) are True.",
+        "4": "Both (A) and (B) are False."
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q095-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 95,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Choose the expression similar in meaning to ‘improvised’ as used in the passage.",
+      "options": {
+        "1": "to make it up",
+        "2": "to declare",
+        "3": "to tell the truth",
+        "4": "to shout"
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q096-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 96,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Why were the boys sneaking away from the hostel ?",
+      "options": {
+        "1": "To have a stroll",
+        "2": "To play football",
+        "3": "To watch a movie",
+        "4": "To see a play"
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q097-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 97,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following statements is True/False ? (A) Mr. Upadhyay met the boys inside the hostel. (B) The boys were already getting late for the play.",
+      "options": {
+        "1": "(A) is True but (B) is False.",
+        "2": "(B) is True but (A) is False.",
+        "3": "Both (A) and (B) are False.",
+        "4": "Both (A) and (B) are True."
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q098-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 98,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "What did Mr. Upadhyay do after hearing the boys ?",
+      "options": {
+        "1": "He talked to them and walked away.",
+        "2": "He took them home for coffee.",
+        "3": "He did not react at all.",
+        "4": "He allowed them to go."
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q099-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 99,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "‘The tickets for the play were squirming in our pockets .’ What literary device has been used in the underlined expression.",
+      "options": {
+        "1": "Personification",
+        "2": "Simile",
+        "3": "Alliteration",
+        "4": "Oxymoron"
+      },
+      "context_text": "H 30 Shreeram Lagoo was acting in a play staged at Ambernath’s Gandhi School. We had managed to get the tickets for the play after much running around. We left the hostel quietly after eating dinner in the mess. The play started at 9.30 p.m. and it was already 9.15 p.m. Patil and I were rushing along the road to the station. Suddenly we saw Upadhyayji coming from the opposite direction. He had seen us. ‘Maharshi, where are you off to at this time ?’ he said reprovingly. We looked at each other’s face. Suddenly Patil spoke up, ‘Sir, I have a headache. We are going to the station to have some tea or coffee. We will be back right after drinking a cup.’ ‘Why, don’t you get tea and coffee in the mess ?’ ‘We do, Sir. But today there wasn’t any milk in the mess. That’s why we are going to the station’, Patil improvised. Upadhyay said, ‘Come with me. I’ll get you some coffee.’ He brought us to his home. The tickets for the play were squirming in our pockets. We couldn’t work out how to get him off our backs. After seating us in the drawing room, he asked his wife to make the coffee and sat on the sofa across from us. As soon as Mrs. Upadhyay entered the kitchen, I got up and said, ‘Ammaji, Warden Saheb is bothering you unnecessarily. I will make the coffee’. She was pleased to see me. ‘Maharshi, you go sit ... I will make it.’ I went up to her and whispered, ‘Ammaji, both of us were going to the Gandhi School to see a play. Warden Saheb waylaid us and brought us here. See, here are the tickets, but he doesn’t know anything.’ Ammaji examined me from head to toe. ‘I see. Is it a good play ?’ I said , ‘Ammaji, it is very good.’ ‘Then why don’t you go ?’ she said with a laugh. ‘How can we go ? Warden Saheb won’t give us permission’, I whispered. She came into the drawing room. Listen, what kind of a warden are you ? Why don’t you let the children go and have some fun ? Go, Maharshi, but don’t be too late.",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 31,
+        "printed_page": 31,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q100-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 100,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Where is the ‘sound’ coming from ?",
+      "options": {
+        "1": "From a crowded street",
+        "2": "From a group of commoners",
+        "3": "From a contingent of soldiers",
+        "4": "From a market place"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 32,
+        "printed_page": 32,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q101-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 101,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "The poem presents itself as a conversation...",
+      "options": {
+        "1": "among three persons",
+        "2": "in a crowd",
+        "3": "among a group of people",
+        "4": "between two persons"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 32,
+        "printed_page": 32,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q102-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 102,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which literary device has been used in the expression ‘scarlet soldiers’ ?",
+      "options": {
+        "1": "simile",
+        "2": "metonymy",
+        "3": "alliteration",
+        "4": "transferred epithet"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 32,
+        "printed_page": 32,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q103-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 103,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "The poem has been written in the form of ...",
+      "options": {
+        "1": "an elegy",
+        "2": "an epic",
+        "3": "a ballad",
+        "4": "a lyric"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 32,
+        "printed_page": 32,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q104-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 104,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Identify the rhyme scheme of these lines.",
+      "options": {
+        "1": "abcb",
+        "2": "abdc",
+        "3": "baba",
+        "4": "abab"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 32,
+        "printed_page": 32,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q105-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 105,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "What emotional state does ‘kneeling’ reflect ?",
+      "options": {
+        "1": "indifference",
+        "2": "anger",
+        "3": "anxiety",
+        "4": "jubilation 33"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 32,
+        "printed_page": 32,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q106-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 106,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Mother tongue based multilingualism advocates that __________.",
+      "options": {
+        "1": "all children begin their schooling in English medium and in home language",
+        "2": "all children study Hindi as their first language",
+        "3": "all children begin their schooling in their mother tongue or home language",
+        "4": "all children begin their schooling in the language of the State"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q107-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 107,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Mark the INCORRECT statement among the following, regarding text-comprehension strategies :",
+      "options": {
+        "1": "Skimming is more apt for reviewing while scanning helps more with answering particular questions.",
+        "2": "Both skimming and scanning involve rapid eye movement through the text.",
+        "3": "Skimming involves going through the text rapidly while scanning involves looking for specific facts.",
+        "4": "Skimming is more about in-depth reading while scanning is more of cursory reading."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q108-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 108,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "When children start using language to ask about things, events and phenomenon around them, which of the following functions of language is used more than the others ?",
+      "options": {
+        "1": "Informative.",
+        "2": "Heuristic.",
+        "3": "Imaginative.",
+        "4": "Regulatory."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q109-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 109,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following features of human language enables humans to talk about things which are not present in immediate time and space ?",
+      "options": {
+        "1": "Structure Dependence.",
+        "2": "Discreteness.",
+        "3": "Displacement.",
+        "4": "Arbitrariness."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q110-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 110,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following skills is NOT considered as a mark of reading with comprehension ?",
+      "options": {
+        "1": "Organizing and assessing the sequence of events or ideas.",
+        "2": "Mentally summarising the text read till now.",
+        "3": "Focusing on individual letters/ alphabets.",
+        "4": "Anticipating the content ahead."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q111-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 111,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following is NOT a feature of the Grammar translation method of second language teaching ?",
+      "options": {
+        "1": "Communicating directly in second language and then comparing the rules of grammar of the two languages.",
+        "2": "Focusing more on the form than the function of language.",
+        "3": "Comparing the grammatical rules of first and second language.",
+        "4": "Learning and practicing the rules of grammar of the second language."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q112-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 112,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "A teacher asks her students to reflect on how they have answered an experience-based question she gave them and what and how they were thinking when they wrote that answer. This is an example of :",
+      "options": {
+        "1": "Metalingualism.",
+        "2": "Metasemiotics.",
+        "3": "Metacognition.",
+        "4": "Metaphor."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q113-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 113,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following among Krashen’s hypotheses is similar to Vygotsky’s ZPD ?",
+      "options": {
+        "1": "Natural order hypothesis",
+        "2": "Affective filter hypothesis",
+        "3": "Input hypothesis",
+        "4": "Monitor hypothesis 34"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 33,
+        "printed_page": 33,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q114-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 114,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "According to Cummins’ interdependence hypothesis, which of these are interdependent on each other :",
+      "options": {
+        "1": "Reading and writing in second language.",
+        "2": "Basic interpersonal skills in first and second language.",
+        "3": "Comprehension and production in second language.",
+        "4": "Cognitive academic proficiency in first and second language."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q115-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 115,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following DOES NOT justify starting reading skills with words and short story texts instead of letters and alphabets ?",
+      "options": {
+        "1": "Words and texts are more interesting but letters are not.",
+        "2": "Separate letters are more difficult to memorise than words.",
+        "3": "Beginner readers can focus better on bigger units than smaller units.",
+        "4": "Words and texts create meaningful associations which letters fail to do."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q116-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 116,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following is linguistically CORRECT about languages and dialects ?",
+      "options": {
+        "1": "Languages have their own script but dialects do not have their own script.",
+        "2": "There is no well-defined linguistic difference between a language and dialect.",
+        "3": "Languages have written literature but dialects are only based on oral traditions.",
+        "4": "Languages and dialects are linguistically different but geographically same."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q117-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 117,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Veera is a seven month old infant. She is now making vocalizations that combine consonants and vowels. She is communicating using which of the following ?",
+      "options": {
+        "1": "Cooing.",
+        "2": "Linguistic speech.",
+        "3": "Phonemes.",
+        "4": "Babbling."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q118-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 118,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "What is productive vocabulary ?",
+      "options": {
+        "1": "Words that we use in writing and speaking.",
+        "2": "Words which are new to the reader.",
+        "3": "Words which are recognized as we hear.",
+        "4": "Words noticed when we read beyond the lines."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q119-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 119,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "Which of the following is NOT explained by the concept of Language Acquisition Device (LAD) ?",
+      "options": {
+        "1": "How children learn figurative language.",
+        "2": "Why the linguistic output of children is more than the input they get.",
+        "3": "How children learn their first language.",
+        "4": "How children are able to learn language within a short span of 4-5 years."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q120-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 120,
+      "part": "IV",
+      "part_name": "Language I",
+      "language": "en",
+      "question_text": "In a speech community, it is observed that ‘s’ is pronounced differently by two different socio- economic groups of speakers. This difference is an example of :",
+      "options": {
+        "1": "A socio-cultural variable",
+        "2": "A socio-psychological variable",
+        "3": "A socio-linguistic variable",
+        "4": "A pragmatic variable 35 91. 92. 93. 94. 95. 96. 97. 36 98. 99. 37 38 39 PART - V LANGUAGE – II : ENGLISH IMPORTANT : Candidates should attempt questions from Part-V (Q. No. 121-150), if they have opted for ENGLISH as LANGUAGE-II only. Read the passage given below and answer the questions that follow : (121-128) A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 34,
+        "printed_page": 34,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q121-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 121,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "State which of the following statements is True/False. (A) Taiji was relatively liberal in her approach. (B) Lata and Malati could not obtain tickets for the recital.",
+      "options": {
+        "1": "(A) is True but (B) is False.",
+        "2": "(B) is True but (A) is False.",
+        "3": "Both (A) and (B) are True.",
+        "4": "Both (A) and (B) are False."
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q122-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 122,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "What does the underlined expression 'the boys are prone to' mean ?",
+      "options": {
+        "1": "impossible to have/get",
+        "2": "likely to have/get",
+        "3": "sure to have/get",
+        "4": "not likely to have/get"
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q123-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 123,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Identify the tense of the given expression ‘...... had thus succeeded...’",
+      "options": {
+        "1": "Simple Present Tense",
+        "2": "Present Perfect Tense",
+        "3": "Simple Past Tense",
+        "4": "Past Perfect Tense"
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q124-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 124,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "What was Tauji’s duty as a family patriarch ?",
+      "options": {
+        "1": "To get the youngsters married",
+        "2": "To cook for the youngsters",
+        "3": "To teach the youngsters",
+        "4": "To keep a strict watch on the youngsters’ activities"
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q125-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 125,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "How did Taiji manage to get concessions for the girls ?",
+      "options": {
+        "1": "By fighting with Tauji",
+        "2": "By adopting an indirect approach",
+        "3": "By arguing with Tauji",
+        "4": "By persuading Tauji 40"
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 39,
+        "printed_page": 39,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q126-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 126,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "What cultural show was being held in the town ?",
+      "options": {
+        "1": "A classical music recital",
+        "2": "A blockbuster movie",
+        "3": "A popular play",
+        "4": "A dance performance"
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q127-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 127,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "By nature and beliefs, Tauji can be described as a/an...",
+      "options": {
+        "1": "anarchist",
+        "2": "agnostic",
+        "3": "conservative",
+        "4": "liberal"
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q128-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 128,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Identify the word nearest in meaning to ‘constrained’.",
+      "options": {
+        "1": "confined",
+        "2": "laid",
+        "3": "arrested",
+        "4": "caught Read the passage given below and answer the questions that follow : (129-135) I designed, after my first voyage, to spend the rest of my days at Baghdad, but it was not long ere I grew weary of an indolent life and I put to sea a second time with merchants of known probity. We embarked on board of a good ship and set sail. One day we landed on an island covered with several sorts of fruit trees, but we could see neither man nor animal. While some diverted themselves with gathering flowers, and other fruits, I took my wine and provisions and sat down near a stream betwixt two high trees, which afforded a delightful shade. I made a good meal and afterwards fell asleep. When I woke up, the ship was no longer in view. In this sad condition, I was ready to die with grief. When I gazed towards the sea, I could discern nothing but sky and water, but looking over the land I beheld something white, and coming down, I took what provision I had left and went towards the object which was so distant that at first could not distinguish what it was. As I approached, I thought it to be a white dome of a prodigious height and extent. I drew near to it, and walked round it and found no door to it. I found that I had not strength nor activity to climb it on account of its exceeding smoothness. I went round the dome measuring its circumference. I meditated upon some means of gaining an entrance into it but no means of accomplishing this occurred to me. By this time the sun was about to set, and all of a sudden the sky became as dark as if it had been covered with a thick cloud. I was much astonished at this sudden darkness but much more when I found it occasioned by a bird of a most extraordinary size that came flying towards me. I remembered that I had often heard mariners speak of a miraculous bird called the roc, and conceived that the great dome which I so much admired must be her egg. Shortly afterwards the bird alighted and sat over the egg."
+      },
+      "context_text": "H 39 A couple of days later, there was a music recital in the Bharatendu Auditorium, one of the two largest auditoriums in town. One of the performers was Ustad Majeed Khan. Lata and Malati both managed to get tickets. So did Hema, a tall, thin and high-spirited friend of theirs who lived with innumerable cousins–boys and girls–in a house not far from Nabiganj. They were all under the care of a strict elder member of the family who was referred to by everyone as Tauji. Hema’s Tauji had quite a job on his hands, as he was not only responsible for the well-being and reputation of the girls of the family but also had to make sure that the boys did not get into the countless kinds of mischief that boys are prone to. He had often cursed his luck that he was the sole representative in a university town of a large and far-flung family. He had on occasions threatened to send everyone straight back home when they had caused him more trouble than he could bear. But his wife, Taiji to everyone, thought she herself had been brought up with almost no liberty or latitude, felt it was a great pity that her nieces and grandnieces should be similarly constrained. She managed to obtain for the girls what they could not obtain by a more direct approach. This evening Hema and her cousin had thus succeeded in reserving the use of Tauji’s large maroon Packard car and went around town collecting their friends for the concert. No sooner was Tauji out of sight than they had entirely forgotten his outraged parting comment. “Flowers ? Flowers in your hair ? Rushing off in exam time- and listening to all this pleasure - music! Everyone will think you are completely dissolute–you will never get married.”",
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q129-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 129,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "The narrator left Baghdad because....",
+      "options": {
+        "1": "He was weary of the city",
+        "2": "He was keen to visit another city",
+        "3": "He did not want to live a lazy life",
+        "4": "Both (1) and (3)"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q130-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 130,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "After realising that the ship had left, the narrator.....",
+      "options": {
+        "1": "was relieved",
+        "2": "did not react",
+        "3": "felt amused",
+        "4": "was shocked"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q131-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 131,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "What did the narrator do after reaching the island ?",
+      "options": {
+        "1": "He chatted with his colleagues.",
+        "2": "He sat down for a filling meal.",
+        "3": "He took endless strolls around the island.",
+        "4": "He gathered fruits and flowers. 41"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 40,
+        "printed_page": 40,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q132-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 132,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Choose the word nearest in meaning to the underlined word : ‘...... of a prodigious height and extent.’",
+      "options": {
+        "1": "narrow",
+        "2": "marvellous",
+        "3": "tall",
+        "4": "large"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q133-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 133,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Identify the tense of the underlined word in : ‘I drew near to it....’",
+      "options": {
+        "1": "Simple Present",
+        "2": "Future Perfect",
+        "3": "Past Perfect",
+        "4": "Simple Past"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q134-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 134,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Identify the Part of Speech of the underlined word in the expression : ‘.... to die with grief.’",
+      "options": {
+        "1": "Conjunction",
+        "2": "Preposition",
+        "3": "Adverb",
+        "4": "Adjective"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q135-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 135,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "The ‘White dome’ finally turned out to be...",
+      "options": {
+        "1": "a place of worship",
+        "2": "a luxurious mansion",
+        "3": "a massive egg",
+        "4": "a royal palace"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q136-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 136,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which one of the following is NOT true about an assessment ?",
+      "options": {
+        "1": "It helps to evaluate the pace of a student’s progress.",
+        "2": "It can only be done by the teacher.",
+        "3": "It provides a holistic view of the student’s progress.",
+        "4": "It presents concrete evidence of the student’s performance."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q137-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 137,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Error-analysis is important in order to look at the gaps in learning because :",
+      "options": {
+        "1": "Errors indicate a lack in the understanding of the learners.",
+        "2": "Errors show extent of concept development and motivation.",
+        "3": "Most errors are caused by callous attitude of the learners.",
+        "4": "Errors are a window into the minds of the learners and their stage of learning."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q138-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 138,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following is NOT true regarding the Monitor Hypothesis given by Stephen Krashen ?",
+      "options": {
+        "1": "What is ‘acquired’ helps in monitoring what is ‘learnt’.",
+        "2": "The learner can only monitor if s/he has enough time and enough knowledge of the rules.",
+        "3": "It is used in the context of second language acquisition.",
+        "4": "It is based on the relationship between acquisition and learning."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q139-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 139,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following is NOT an example of formative assessment ?",
+      "options": {
+        "1": "A combination of a comprehensive written test and few other tasks scattered over a period of time.",
+        "2": "Assessment strategies ranging from short tests to peer-reviews throughout the session.",
+        "3": "A series of oral and written tasks, role-play etc. throughout the session.",
+        "4": "A term-paper at the end of the session."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q140-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 140,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "When a beginner reader uses his/her general knowledge about the text theme, cultural aspects etc. to make sense of the specific textual content, it is called :",
+      "options": {
+        "1": "Bottom-up approach.",
+        "2": "Bottom-down approach.",
+        "3": "Top-down approach.",
+        "4": "Top-up approach. 42"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 41,
+        "printed_page": 41,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q141-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 141,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following would not help in textual comprehension and vocabulary development ?",
+      "options": {
+        "1": "Theme-maps.",
+        "2": "Picture dictionaries.",
+        "3": "Word-maps.",
+        "4": "Alphabet charts."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q142-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 142,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of these statements is CORRECT regarding the two major types of assessment ?",
+      "options": {
+        "1": "Formative assessment goes on continuously through the learning phase.",
+        "2": "Summative assessment is done before and during the learning phase.",
+        "3": "Formative assessment focuses on the form rather than function of learning.",
+        "4": "Summative assessment is about the sum total of every form of assessment through the year."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q143-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 143,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following DOES NOT help in creating an inclusive classroom ?",
+      "options": {
+        "1": "Adopting a multilingual approach.",
+        "2": "Having some students as monitors in the class.",
+        "3": "Peer-group interaction and feedback system.",
+        "4": "Giving team-tasks."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q144-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 144,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Reading or writing ‘p’ as ‘b’ or ‘6’ as ‘9’ is a common error among children with :",
+      "options": {
+        "1": "Anomia.",
+        "2": "Dyslexia.",
+        "3": "Stuttering.",
+        "4": "Aphasia."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q145-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 145,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Basic Interpersonal Communicative Skills is known as :",
+      "options": {
+        "1": "Language used for day-to-day communication.",
+        "2": "Interlanguage.",
+        "3": "Higher order language skills.",
+        "4": "Language of abstraction."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q146-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 146,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "A teacher teaching English as second language to Hindi-speaking students provides them contexts and opportunities to engage in little conversations in English without telling them explicit rules. She presents examples before them which they use in their conversations. Gradually, they come up with rules on their own with the help of the teacher. Which model/ approach do you think the teacher is following ?",
+      "options": {
+        "1": "Communicative approach.",
+        "2": "Direct method.",
+        "3": "Grammar translation method.",
+        "4": "Audio-lingual method."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q147-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 147,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following is NOT a feature of communicative approach ?",
+      "options": {
+        "1": "Discovering rules of grammar instead of teaching explicitly.",
+        "2": "Developing communicative competence.",
+        "3": "More focus on form than function.",
+        "4": "Contextualised use of language."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q148-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 148,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which genre of stories are the most relevant to propagate multilingualism and multiculturalism ?",
+      "options": {
+        "1": "Science fiction.",
+        "2": "Lengthy tale.",
+        "3": "Folktales.",
+        "4": "Autobiographies."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q149-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 149,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following is NOT a desirable feature in children’s literature ?",
+      "options": {
+        "1": "Big font size and familiar words.",
+        "2": "Attractive pictures.",
+        "3": "Animal characters.",
+        "4": "Explicit moral values."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "SED-24-I-H-Q150-EN",
+      "exam": "SED-24-I",
+      "booklet_code": "H",
+      "paper_id": "SED-24-I-PAPER-I-H",
+      "question_number": 150,
+      "part": "V",
+      "part_name": "Language II",
+      "language": "en",
+      "question_text": "Which of the following is NOT considered a major domain of learning ?",
+      "options": {
+        "1": "Affective",
+        "2": "Psychomotor",
+        "3": "Cognitive",
+        "4": "Socio-cultural"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_file": "SED-24-I-PAPER-I-H.pdf",
+        "pdf_page": 42,
+        "printed_page": 42,
+        "bbox": null
+      },
+      "extraction": {
+        "method": "native_pdf_text_filtered",
+        "confidence": 1.0,
+        "status": "verified",
+        "warnings": []
+      }
+    }
+  ],
+  "validation": {
+    "expected_english_questions": 150,
+    "detected_english_questions": 150,
+    "complete_option_sets": 150,
+    "missing_question_numbers": [],
+    "main_official_answers": 90,
+    "missing_official_answers": [
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "113",
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "131",
+      "132",
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "146",
+      "147",
+      "148",
+      "149",
+      "150"
+    ],
+    "special_answers": [
+      "64=Z/ALL"
+    ],
+    "status": "PASS"
+  }
+}

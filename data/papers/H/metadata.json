@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "paper_id": "SED-24-I-PAPER-I-H",
+  "exam": "SED-24-I",
+  "session": "DEC-2024",
+  "exam_date": "2024-12-14",
+  "paper": "PAPER-I",
+  "booklet_code": "H",
+  "title": "SED-24-I Paper I - Set H",
+  "question_count": 150,
+  "question_records": 150,
+  "available_languages": [
+    "en"
+  ],
+  "source_question_paper": "set-5-Paper_i_ H paper.pdf",
+  "source_answer_key": "H answer keys.pdf",
+  "answer_key_scope": "Q1-Q90 official; Q91-Q150 not supplied",
+  "publication_status": "review",
+  "notes": [
+    "Q1-Q90 also contain Hindi, but the source PDF uses legacy Chanakya encoding; no silent Unicode conversion was performed.",
+    "Do not infer missing Q91-Q150 official answers."
+  ]
+}

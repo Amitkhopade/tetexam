@@ -1,0 +1,42 @@
+{
+  "exam": "ACF-26-I",
+  "booklet_code": "N",
+  "total_questions": 150,
+  "duration_minutes": 150,
+  "negative_marking": false,
+  "parts": [
+    {
+      "part": "I",
+      "name": "Child Development and Pedagogy",
+      "from": 1,
+      "to": 30
+    },
+    {
+      "part": "II",
+      "name": "Mathematics",
+      "from": 31,
+      "to": 60
+    },
+    {
+      "part": "III",
+      "name": "Environmental Studies",
+      "from": 61,
+      "to": 90
+    },
+    {
+      "part": "IV",
+      "name": "Language I",
+      "from": 91,
+      "to": 120
+    },
+    {
+      "part": "V",
+      "name": "Language II",
+      "from": 121,
+      "to": 150
+    }
+  ],
+  "source_file": "SET-4_PAPER-I_ACF-26-I-N.pdf",
+  "exam_date": "2026-03-01",
+  "status": "ready"
+}

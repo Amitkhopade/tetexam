@@ -1,0 +1,15 @@
+{
+  "name": "question-paper-navigator",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix frontend install",
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "test:web": "npm --prefix frontend run test",
+    "extract:k": "PYTHONPATH=processor/src python processor/src/extract_paper.py sample_inputs/SET-1_PAPER-I_ACF-26-I-K.pdf --booklet K --output data/papers/K/questions.json --asset-root frontend/public/assets",
+    "extract:l": "PYTHONPATH=processor/src python processor/src/extract_paper.py sample_inputs/SET-2_PAPER-I_ACF-26-I-L.pdf --booklet L --output data/papers/L/questions.json --asset-root frontend/public/assets",
+    "sync:data": "PYTHONPATH=processor/src python processor/src/sync_data.py",
+    "validate": "PYTHONPATH=processor/src python processor/src/validate_dataset.py",
+    "extract:n": "PYTHONPATH=processor/src python processor/src/extract_paper.py sample_inputs/SET-4_PAPER-I_ACF-26-I-N.pdf --booklet N --output data/papers/N/questions.json --asset-root frontend/public/assets"
+  }
+}
