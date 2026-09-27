@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "1.2.0",
   "papers": [
     {
       "paper_id": "SED-24-I-PAPER-I-H",
@@ -17,6 +17,23 @@
       "paper": "H/paper.json",
       "validation": "H/validation.json",
       "status": "review"
+    },
+    {
+      "paper_id": "CTET-DEC-2018-PAPER-I-I",
+      "exam": "CTET-DEC-2018",
+      "session": "DEC-2018",
+      "exam_date": "2018-12-31",
+      "title": "Paper I - Main Test Booklet - Set I",
+      "booklet_code": "I",
+      "question_count": 150,
+      "available_languages": [
+        "en"
+      ],
+      "questions": "I/questions.json",
+      "answer_key": "I/answer_key.json",
+      "paper": "I/paper.json",
+      "validation": "I/validation.json",
+      "status": "published"
     },
     {
       "paper_id": "ACF-26-I-PAPER-I-K",

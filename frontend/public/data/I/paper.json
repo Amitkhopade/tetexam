@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "paper_id": "CTET-DEC-2018-PAPER-I-I",
+  "exam": "CTET-DEC-2018",
+  "session": "DEC-2018",
+  "exam_date": "2018-12-31",
+  "title": "Paper I - Main Test Booklet - Set I",
+  "booklet_code": "I",
+  "question_count": 150,
+  "available_languages": [
+    "en"
+  ],
+  "dataset_language": "en",
+  "status": "published"
+}

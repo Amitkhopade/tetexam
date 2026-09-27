@@ -1,0 +1,4671 @@
+{
+  "schema_version": "1.0.0",
+  "exam": "CTET-DEC-2018",
+  "booklet_code": "I",
+  "source_file": "exam paper A -Dec-2018.pdf",
+  "question_count": 150,
+  "language": "en",
+  "questions": [
+    {
+      "id": "CTET-DEC-2018-I-Q1-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 1,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the followingstatements is true about the role ofheredity and environment?",
+      "options": {
+        "1": "Certain aspects of developmentare influenced more by heredityand others more by environ-ment.",
+        "2": "A child’s ability to learn andperform is completely decidedby the genes.",
+        "3": "Good care and a nutritious dietcan fight off any disorder a child is born with.",
+        "4": "Environment plays a significantrole only in the child’s languagedevelopment."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 2,
+        "printed_page": 2,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q2-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 2,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the followingstatements cannot be attributed toPiaget’s theory?",
+      "options": {
+        "1": "Development occurs inqualitative stages.",
+        "2": "Children construct and useknowledge about their world.",
+        "3": "Learning takes place throughconstant practice.",
+        "4": "Children act on theirenvironment."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 2,
+        "printed_page": 2,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q3-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 3,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following is nota limitation of the preoperationalthought?",
+      "options": {
+        "1": "Tendency to concentrate",
+        "2": "Development of the symbolicthought",
+        "3": "Egocentrism",
+        "4": "Irreversibility"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 2,
+        "printed_page": 2,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q4-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 4,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Play has a significant role indevelopment of young children forthe following reasons, except—",
+      "options": {
+        "1": "they gain mastery over theirbody",
+        "2": "it stimulates their senses",
+        "3": "it is just a pleasant way tospend time",
+        "4": "they acquire new skills andlearn when to use them"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 3,
+        "printed_page": 3,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q5-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 5,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following questions invites children to think critically?",
+      "options": {
+        "1": "Do you know the answer tothis?",
+        "2": "What is the right answer?",
+        "3": "Can you think of a similarsituation?",
+        "4": "What are the different ways inwhich we can solve this?"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 3,
+        "printed_page": 3,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q6-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 6,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the followingoptions best describes progressiveeducation?",
+      "options": {
+        "1": "Learning by doing, projectmethod, cooperative learning",
+        "2": "Thematic units, regular unittests, ranking",
+        "3": "Personalized learning, abilitygrouping, labeling students",
+        "4": "Project method, abilitygrouping, ranking"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 3,
+        "printed_page": 3,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q7-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 7,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the followingstatements about progressiveeducation explains—Education islife itself?",
+      "options": {
+        "1": "School education shouldcontinue as long as possible.",
+        "2": "Schools are not required,children can learn from their life experiences.",
+        "3": "Education in schools shouldreflect the social and naturalworld.",
+        "4": "Life is the true educator."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 3,
+        "printed_page": 3,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q8-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 8,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following can beconsidered as a contribution ofKohlberg’s theory?",
+      "options": {
+        "1": "His theory has supported anassociation between cognitivematurity and moral maturity.",
+        "2": "The theory has elaborate testing procedures.",
+        "3": "It establishes a clear relation-ship between moral reasoningand action.",
+        "4": "His belief is that children aremoral philosophers."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 4,
+        "printed_page": 4,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q9-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 9,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "The Zone of Proximal Developmentrefers to—",
+      "options": {
+        "1": "the phase when maximumdevelopment is possible",
+        "2": "the developmental phase whenchild takes complete responsi-bility for learning",
+        "3": "a context in which children canalmost perform a task on theirown with the right level ofsupport",
+        "4": "the point in learning whensupport can be withdrawn"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 4,
+        "printed_page": 4,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q10-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 10,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "An androgynous personality—",
+      "options": {
+        "1": "refers to men with femininetraits",
+        "2": "has a balance of what aregenerally considered masculineand feminine traits",
+        "3": "tends to be assertive andarrogant",
+        "4": "adheres to stereotypical genderroles prevalent in the society"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 4,
+        "printed_page": 4,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q11-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 11,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Children acquire gender rolesthrough all of the following,except—",
+      "options": {
+        "1": "media",
+        "2": "socialization",
+        "3": "culture",
+        "4": "tutoring"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 5,
+        "printed_page": 5,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q12-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 12,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "One of the critiques of standardizedtests has been that—",
+      "options": {
+        "1": "they represent largely themainstream culture and aretherefore biased",
+        "2": "their language is difficult tounderstand",
+        "3": "the tests cannot be adminis-tered on large populations",
+        "4": "they do not give a clear pictureof a child’s ability"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 5,
+        "printed_page": 5,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q13-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 13,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "The theory of multiple intelligencesays that—",
+      "options": {
+        "1": "intelligence can be rapidlyaccelerated",
+        "2": "intelligence can be of severalkinds",
+        "3": "paper-pencil tests are nothelpful",
+        "4": "intelligence can be multipliedwith effective pedagogy"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 5,
+        "printed_page": 5,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q14-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 14,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Teacher can utilize both assessment for learning and assessment oflearning to—",
+      "options": {
+        "1": "know children’s progress andachievement level",
+        "2": "know learning needs of childand select teaching strategyaccordingly",
+        "3": "assess child’s performance atperiodic intervals and certifyhis/her performance",
+        "4": "monitor children’s progress andset appropriate goals to fill theirlearning gaps"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 6,
+        "printed_page": 6,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q15-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 15,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following isnot related to Continuous andComprehensive Evaluation?",
+      "options": {
+        "1": "It has been mandated by theRight to Education Act of India.",
+        "2": "It is an integral part of teaching- learning process.",
+        "3": "It focuses on child’sachievement in differentlearning areas.",
+        "4": "It is useful to label children asslow, poor or intelligent."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 6,
+        "printed_page": 6,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q16-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 16,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Giftedness in children can beattributed to—",
+      "options": {
+        "1": "an interplay between heredityand environment",
+        "2": "a resource-rich environment",
+        "3": "successful parents",
+        "4": "a disciplined routine"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 6,
+        "printed_page": 6,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q17-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 17,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Children coming from socio-economically disadvantaged back-grounds need a classroomenvironment which—",
+      "options": {
+        "1": "teaches them good behaviour",
+        "2": "values and uses their culturaland linguistic knowledge",
+        "3": "discourages the use of theirlanguage so that they learn themainstream language",
+        "4": "categorizes children based ontheir abilities"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 7,
+        "printed_page": 7,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q18-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 18,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "The intervention needed for creativeand talented children in theclassroom rests on—",
+      "options": {
+        "1": "use of customized and stimu-lating instructional methods bythe teacher",
+        "2": "giving extra time to them",
+        "3": "being affectionate towards them",
+        "4": "giving them the responsibility ofteaching other children"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 7,
+        "printed_page": 7,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q19-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 19,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following ways isnot a suitable way to helphyperactive children learn?",
+      "options": {
+        "1": "Breaking up a task into small,manageable segments",
+        "2": "Offering alternative ways oflearning",
+        "3": "Including physical activity intheir daily schedule",
+        "4": "Reprimanding them often forbeing restless"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 7,
+        "printed_page": 7,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q20-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 20,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Patterns of divergent thinkingidentify children, who are—",
+      "options": {
+        "1": "disabled",
+        "2": "dyslexic",
+        "3": "creative",
+        "4": "resilient"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 7,
+        "printed_page": 7,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q21-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 21,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following does notdescribe the ways in which a teacher can model problem solving forchildren in the classroom?",
+      "options": {
+        "1": "Discuss your thought processesabout solving a particularproblem",
+        "2": "Be honest about makingmistakes while solvingsomething",
+        "3": "Use vocabulary like think,ideas, trial and differentanswers",
+        "4": "Ask questions with convergentanswers"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 8,
+        "printed_page": 8,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q22-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 22,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following is anemotion?",
+      "options": {
+        "1": "Memory",
+        "2": "Fear",
+        "3": "Attention",
+        "4": "Stimulus"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 8,
+        "printed_page": 8,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q23-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 23,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "A three-year-old child explains thatmilk is produced by a machine atthe milk booth. Which one of the following offersthe best explanation of the child’sunderstanding?",
+      "options": {
+        "1": "The child has very limitedexposure of the world.",
+        "2": "The child’s answer is based onhis/her experience of buyingmilk from the milk booth.",
+        "3": "The child has never seen cows.",
+        "4": "The child’s family does not offera stimulating environment tothe child."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 8,
+        "printed_page": 8,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q24-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 24,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following bestdescribes a teacher’s role?",
+      "options": {
+        "1": "Teacher’s most important rolein the classroom is to maintaindiscipline",
+        "2": "A teacher should adhere to theprescribed textbook",
+        "3": "Completing the syllabus on time leaving enough time for revisionis important",
+        "4": "Creating a relaxed space wherechildren learn through dialogueand inquiry"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 9,
+        "printed_page": 9,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q25-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 25,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the followingclassrooms encourages richlearning?",
+      "options": {
+        "1": "A classroom with a variety ofmaterial displayed in the classbeyond the reach of children sothat the material lasts longer",
+        "2": "A classroom with open activitycorners and a variety ofchildren’s literature in openshelves accessible any time ofthe day",
+        "3": "A classroom with neatlyorganized material in cupboards brought out once a week for free play",
+        "4": "A classroom with structuredand planned learning driven bytextbook content"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 9,
+        "printed_page": 9,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q26-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 26,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following bestdescribes the role of textbooks in the classroom?",
+      "options": {
+        "1": "They are one of the resourceand reference materialsavailable in the class.",
+        "2": "They maintain homogeneity inlearning across a State or theNation.",
+        "3": "They provide guidance toteachers and parents about thecourse of study.",
+        "4": "They form the most essentiallearning resource in a resource-starved context."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 9,
+        "printed_page": 9,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q27-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 27,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "The National CurriculumFramework–2005 derives itsunderstanding from—",
+      "options": {
+        "1": "humanism",
+        "2": "behaviourism",
+        "3": "constructivism",
+        "4": "cognitive theories"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 10,
+        "printed_page": 10,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q28-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 28,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "The children in a class can beconsidered to be motivated if—",
+      "options": {
+        "1": "they come to school neatlydressed in uniform",
+        "2": "they maintain discipline in theclass",
+        "3": "all are regular in attendance",
+        "4": "they ask questions seekingclarification from the teacher"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 10,
+        "printed_page": 10,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q29-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 29,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "Which one of the following is themost suitable to improve children’slearning?",
+      "options": {
+        "1": "Regular assessment test shouldbe conducted.",
+        "2": "Teacher should explain thecontent using differentexamples and illustrations.",
+        "3": "All types of learning materialshould be there in the class.",
+        "4": "Teacher should facilitatechildren to interact with eachother on real-life situations."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 10,
+        "printed_page": 10,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q30-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 30,
+      "part": "1",
+      "part_name": "Child Development and Pedagogy",
+      "language": "en",
+      "question_text": "The discipline which has asignificant role in a learningenvironment is of the kind whichhelps—",
+      "options": {
+        "1": "children to regulate and monitor their own learning",
+        "2": "to create silence",
+        "3": "teachers to give instructions",
+        "4": "children rote memorize theirlessons"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 10,
+        "printed_page": 10,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q31-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 31,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The assessment of what childrenlearn in mathematics in primaryclasses should not focus on—",
+      "options": {
+        "1": "understanding of themathematical concepts",
+        "2": "development of mathematicallanguage",
+        "3": "preciseness in answeringmathematics problems",
+        "4": "development of reasoning skills SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 11,
+        "printed_page": 11,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q32-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 32,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "What sequence of the followinginstructions should be followedin development of a mathematicalconcept in elementary classes? I.Drawing pictures II.Using symbolic representation III. Providing experiences IV. Explaining through language",
+      "options": {
+        "1": "IV, III, I, II",
+        "2": "III, IV, I, II",
+        "3": "IV, III, II, I",
+        "4": "III, I, II, IV SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 11,
+        "printed_page": 11,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q33-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 33,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A child subtracted two numbers asshown below: 83– 27 64 Which one of the followingstatements gives idea about thechild’s learning of subtraction?",
+      "options": {
+        "1": "The child has misconceptionsabout place value in the process of subtraction.",
+        "2": "The child does not know how tosubtract.",
+        "3": "The child knows the processof subtraction of two-digitnumbers.",
+        "4": "It is a mistake and it can berectified by repeated practice. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 12,
+        "printed_page": 12,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q34-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 34,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Arrange the following steps of cycleof learning and assessment in order: I.Teaching-learning integratedwith assessment II.Planning and organization ofteaching-learning and assess-ment III. Developing progress reports IV. Reporting and communicating feedback of children’s learningand progress",
+      "options": {
+        "1": "II, I, III, IV",
+        "2": "I, II, IV, III",
+        "3": "IV, I, II, III",
+        "4": "II, IV, I, III SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 12,
+        "printed_page": 12,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q35-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 35,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Why are Roman numerals notcommonly used in writing numberslike the Hindu-Arabic numerals?",
+      "options": {
+        "1": "The Roman numerals do notemploy place value, so calcula-tions are difficult to performusing these numerals.",
+        "2": "Roman numerals are difficult toremember.",
+        "3": "The formation of numbersusing Roman numerals is acomplicated task.",
+        "4": "Children get confused with theEnglish alphabet and Romannumerals. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 13,
+        "printed_page": 13,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q36-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 36,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A teacher encourages the childrenin her class to explain the physicalproperties of the objects aroundthem in their own words. What is the most appropriateobjective of the teacher to do suchan activity with her students?",
+      "options": {
+        "1": "It is a very interesting activitywhich can be performed in thefree time for revisiting theconcept of shapes.",
+        "2": "Children enjoy explaining theobjects in their own languagelike they enjoy playing dumbcharades.",
+        "3": "It makes the children observethe physical properties of anobject informally which deepens their understanding aboutshapes.",
+        "4": "It is a useful activity whichintroduces a child to the shapes. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 13,
+        "printed_page": 13,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q37-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 37,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The mathematics used by illiterateshopkeeper—",
+      "options": {
+        "1": "is not useful in the mathematics classroom",
+        "2": "is very useful in solving allmathematical problems",
+        "3": "has ambiguity and very low level of correctness in it",
+        "4": "should be discussed by theteachers in classrooms as analternate strategy in solvingrelated problems SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 14,
+        "printed_page": 14,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q38-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 38,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "How should a teacher handle aheterogeneous group of children in a mathematics classroom?",
+      "options": {
+        "1": "By grouping the children ofsame ability together and givingthem questions according totheir ability",
+        "2": "By grouping all childrentogether in the same classroom",
+        "3": "By grouping the children ofdifferent abilities together sothat they can learn from eachother",
+        "4": "By doing questions accordingto low ability children in theclass and giving the complexquestions as home assignmentsto higher ability children SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 14,
+        "printed_page": 14,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q39-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 39,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The learning outcomes inmathematics are developed—",
+      "options": {
+        "1": "such that children may be toldsmall steps for calculations",
+        "2": "to increase the achievement ofchildren in various educationalsurveys",
+        "3": "to define classwise compe-tencies and skills to be achieved by children",
+        "4": "to prepare children for year-endexaminations SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 15,
+        "printed_page": 15,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q40-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 40,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the followinghappenings in the classroom is anactivity?",
+      "options": {
+        "1": "Teacher explaining how to dosums",
+        "2": "Children reciting counting inform of rhymes",
+        "3": "Children copying fromblackboard",
+        "4": "Children engaged in exploration SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 15,
+        "printed_page": 15,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q41-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 41,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "To develop skill of counting amongchildren, which one of the followingis not required to be learned as pre-number concept?",
+      "options": {
+        "1": "One to one correspondence",
+        "2": "Seriation",
+        "3": "Reciting number namesrandomly",
+        "4": "Creating groups SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 16,
+        "printed_page": 16,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q42-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 42,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "On asking a child ‘‘What is area?’’,he/she answered length × breadth.What can you say about the child’sunderstanding about the conceptof area?",
+      "options": {
+        "1": "The child has no idea about theconcept of area.",
+        "2": "The child used the area ofrectangle as general idea of area of any closed shape.",
+        "3": "The child is right in saying areais length × breadth.",
+        "4": "The child is confused betweenthe concept of area and peri-meter. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 16,
+        "printed_page": 16,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q43-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 43,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following statementsis true with respect to mathematicslearning?",
+      "options": {
+        "1": "Mathematics is a difficultsubject to learn.",
+        "2": "Generally girls are weaker inmathematics.",
+        "3": "Everybody can learnmathematics.",
+        "4": "Mathematics can only be learntby rigorous practice. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 17,
+        "printed_page": 17,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q44-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 44,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "To teach the Pythagoras theorem, ateacher has distributed a sheet onwhich four right-angled triangleswere drawn and asks the child tofind the relationship between thesides of a triangle. In the above situation, the teacherused—",
+      "options": {
+        "1": "inductive method",
+        "2": "deductive method",
+        "3": "lecture method",
+        "4": "laboratory method SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 17,
+        "printed_page": 17,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q45-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 45,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following statementsis not true about ‘concept maps’?",
+      "options": {
+        "1": "Concept maps represent acollection of interconnectedconcepts and links connectingthem.",
+        "2": "Concept maps should beconstructed by teachers only.",
+        "3": "Concept maps are hierarchicalin nature.",
+        "4": "Concept maps help in linkingprior knowledge to newinstruction. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 18,
+        "printed_page": 18,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q46-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 46,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "23 45 is—",
+      "options": {
+        "1": "68",
+        "2": "1 6 15",
+        "3": "1 7 15",
+        "4": "815 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 18,
+        "printed_page": 18,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q47-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 47,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "For the given shapes, which oneof the following statements is notcorrect?",
+      "options": {
+        "1": "All are parallelograms.",
+        "2": "One of them is not aparallelogram.",
+        "3": "Two of them are rhombuses.",
+        "4": "Two of them are rectangles. SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 19,
+        "printed_page": 19,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q48-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 48,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following representsthe number ‘eleven thousand elevenhundred eleven’?",
+      "options": {
+        "1": "111111",
+        "2": "12111",
+        "3": "11000110011",
+        "4": "XIXIXI SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 19,
+        "printed_page": 19,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q49-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 49,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The points A and B representnumbers on a number line as shown below: The distance between the pointsA and B is—",
+      "options": {
+        "1": "29000 units",
+        "2": "84000 units",
+        "3": "22 units",
+        "4": "22000 units SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 20,
+        "printed_page": 20,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q50-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 50,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "How many packets of 1 16 kg sugar can be made from 3 1 4 kg of sugar?",
+      "options": {
+        "1": "52",
+        "2": "48",
+        "3": "12",
+        "4": "64 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 20,
+        "printed_page": 20,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q51-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 51,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Harish started his journey at 18: 40 and finished at 22: 20. The timetaken in completing the journey is—",
+      "options": {
+        "1": "3 hours 40 minutes",
+        "2": "3 hours 80 minutes",
+        "3": "4 hours 40 minutes",
+        "4": "3 hours 20 minutes SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 21,
+        "printed_page": 21,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q52-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 52,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A bucket of capacity 2000 mL is tobe filled by using containersmeasuring 200 mL and 300 mL.Which one of the followingcombinations of containers is notcorrect for filling the bucketcompletely by the containers of200 mL and 300 mL respectively?",
+      "options": {
+        "1": "1, 6",
+        "2": "4, 4",
+        "3": "7, 2",
+        "4": "6, 3 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 21,
+        "printed_page": 21,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q53-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 53,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following is the best approximation of 7 13 859 09?",
+      "options": {
+        "1": "739",
+        "2": "749",
+        "3": "7410",
+        "4": "7310 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 22,
+        "printed_page": 22,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q54-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 54,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "If one small square in the grid isof area 4 sq. units, what is theperimeter of the rectangle drawn onthe grid?",
+      "options": {
+        "1": "32 units",
+        "2": "8 units",
+        "3": "24 units",
+        "4": "12 units SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 22,
+        "printed_page": 22,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q55-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 55,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "A child scored 75 marks in each offive subjects. What is the medianmarks obtained by the child?",
+      "options": {
+        "1": "75",
+        "2": "375",
+        "3": "15",
+        "4": "70 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 23,
+        "printed_page": 23,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q56-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 56,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following can be folded to form the given solid?",
+      "options": {
+        "1": "Visual option",
+        "2": "Visual option",
+        "3": "Visual option",
+        "4": "Visual option"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 23,
+        "printed_page": 23,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": true,
+        "visual_fallback": {
+          "type": "page_crop",
+          "path": "source/I/page-23-q56.png"
+        }
+      },
+      "extraction": {
+        "method": "pdf_text_plus_visual_fallback",
+        "confidence": 0.98,
+        "status": "verified",
+        "warnings": [
+          "Options are graphical in the source; visual fallback retained."
+        ]
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q57-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 57,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "If Red part in the following pie chartis 40, what is White part? Yellow 14Blue18 WhiteRed 1218",
+      "options": {
+        "1": "5",
+        "2": "10",
+        "3": "12",
+        "4": "20 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 23,
+        "printed_page": 23,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q58-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 58,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Observe the following solid shape: Which one of the following is the top view of the given solid?",
+      "options": {
+        "1": "Visual option",
+        "2": "Visual option",
+        "3": "Visual option",
+        "4": "Visual option"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 24,
+        "printed_page": 24,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": true,
+        "visual_fallback": {
+          "type": "page_crop",
+          "path": "source/I/page-24-q58.png"
+        }
+      },
+      "extraction": {
+        "method": "pdf_text_plus_visual_fallback",
+        "confidence": 0.98,
+        "status": "verified",
+        "warnings": [
+          "Options are graphical in the source; visual fallback retained."
+        ]
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q59-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 59,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "Which one of the following costsmore? I.200 packets of R250 each II.20 dozens of R250 each item",
+      "options": {
+        "1": "I",
+        "2": "II",
+        "3": "Both I and II are equal",
+        "4": "Cannot be calculated SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 24,
+        "printed_page": 24,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q60-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 60,
+      "part": "2",
+      "part_name": "Mathematics",
+      "language": "en",
+      "question_text": "The sum of 11 11 11 toeven number of terms is—",
+      "options": {
+        "1": "zero",
+        "2": "1",
+        "3": "1",
+        "4": "2 SPACE FOR ROUGH WORK /"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 24,
+        "printed_page": 24,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q61-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 61,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What is the location of Jammu &Kashmir and Goa with respect toBihar in India?",
+      "options": {
+        "1": "East and West",
+        "2": "West and East",
+        "3": "North-west and South-west",
+        "4": "South-west and North-east"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 25,
+        "printed_page": 25,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q62-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 62,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Under which of the followingconditions will the process ofevaporation be slowest?",
+      "options": {
+        "1": "Both surface area andtemperature increase",
+        "2": "Surface area increases buttemperature decreases",
+        "3": "Surface area decreases buttemperature increases",
+        "4": "Both surface area andtemperature decrease"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 25,
+        "printed_page": 25,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q63-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 63,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "The ability to understand relativeposition of places, distances anddirections is—",
+      "options": {
+        "1": "directional skill",
+        "2": "mapping skill",
+        "3": "positional skill",
+        "4": "graphic skill"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 25,
+        "printed_page": 25,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q64-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 64,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which National CurriculumFramework (NCF) recommendedEnvironmental Studies to be taughtas an integrated curricular area atthe primary level?",
+      "options": {
+        "1": "NCF–2005",
+        "2": "NCF–1988",
+        "3": "NCF–2000",
+        "4": "NCF–1975"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 26,
+        "printed_page": 26,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q65-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 65,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which region has the practice ofshifting cultivation in India?",
+      "options": {
+        "1": "North-eastern region",
+        "2": "Southern region",
+        "3": "North-western region",
+        "4": "South-eastern region"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 26,
+        "printed_page": 26,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q66-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 66,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which one of the followingstatements is not true forhydropower generated from riverdams?",
+      "options": {
+        "1": "Dams encourage sustainablegrowth.",
+        "2": "It does not pollute water or air.",
+        "3": "Hydropower facilities can havelarge environmental impacts.",
+        "4": "Dams displace indigenouspeople from their river lifelines."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 26,
+        "printed_page": 26,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q67-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 67,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which of the following is/aregreenhouse gas/gases?",
+      "options": {
+        "1": "Carbon dioxide",
+        "2": "Methane",
+        "3": "Water vapour",
+        "4": "All of the above"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 27,
+        "printed_page": 27,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q68-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 68,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Why are cold deserts in India notaffected by the monsoon?",
+      "options": {
+        "1": "Cold deserts have hot summersand extremely cold winters.",
+        "2": "Cold deserts lie in the rainshadow of the Himalayas.",
+        "3": "Air is very thin in cold deserts.",
+        "4": "Cold deserts are at a very highaltitude."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 27,
+        "printed_page": 27,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q69-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 69,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which one of the following isresponsible for turning Taj Mahalyellow?",
+      "options": {
+        "1": "Nitrogen dioxide",
+        "2": "Sulphur dioxide",
+        "3": "Sulphur",
+        "4": "Chlorine"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 27,
+        "printed_page": 27,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q70-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 70,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Who built the Golconda Fort?",
+      "options": {
+        "1": "Chola Dynasty",
+        "2": "Chalukya Dynasty",
+        "3": "Kakatiya Dynasty",
+        "4": "Pallava Dynasty"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 28,
+        "printed_page": 28,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q71-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 71,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What is the mass of an object witha density of 15 g/mL and a volumeof 3 mL?",
+      "options": {
+        "1": "18 g",
+        "2": "45 g",
+        "3": "5 g",
+        "4": "12 g"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 28,
+        "printed_page": 28,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q72-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 72,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which one of the following is ascalar quantity?",
+      "options": {
+        "1": "Mass",
+        "2": "Gravity",
+        "3": "Momentum",
+        "4": "Weight"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 28,
+        "printed_page": 28,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q73-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 73,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "An object in which no light rays canpass through is called—",
+      "options": {
+        "1": "opaque",
+        "2": "translucent",
+        "3": "transparent",
+        "4": "convex"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 29,
+        "printed_page": 29,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q74-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 74,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What will be the weight of an objecton the surface of the earth whosemass is 10 kg on the moon’ssurface?",
+      "options": {
+        "1": "60 kg",
+        "2": "10 kg",
+        "3": "60 N",
+        "4": "10 N"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 29,
+        "printed_page": 29,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q75-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 75,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "The rate of dissolution of a solutedepends on—",
+      "options": {
+        "1": "pressure",
+        "2": "temperature",
+        "3": "surface area",
+        "4": "weight"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 29,
+        "printed_page": 29,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q76-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 76,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Sushma wants her students to besensitized for ‘conservation of trees’.Which one of the following is themost suitable strategy to do so?",
+      "options": {
+        "1": "Conducting a debate inclassroom",
+        "2": "Group discussion",
+        "3": "Poster making",
+        "4": "Helping children to adopt andnurture a plant"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 29,
+        "printed_page": 29,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q77-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 77,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Abhay asked his students to do asurvey in groups on diseases thatpeople in their neighbourhoodsuffered from. The survey is notmentioned in the textbook. Whichoption is not relevant for thisteaching-learning strategy?",
+      "options": {
+        "1": "It provided opportunity tointeract with community.",
+        "2": "It helped children connectlearning with real life.",
+        "3": "It enabled children understanddata handling and worktogether.",
+        "4": "It helped the communityunderstand the diseases thatthey suffered from."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 30,
+        "printed_page": 30,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q78-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 78,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "To talk about emergency situations,Priya asked children’s experienceswhen they faced any emergencies.Children narrated their experienceswith fire, electric shock and roadaccidents. She asked questions,assessed their existing under-standings and discussed safetyaspects using resources such asroad safety advertisements fromnewspapers and also used LPG andelectric bill to discuss safetyguidelines on fire and electric shockrespectively. Which is the mostappropriate approach that Priyaemployed?",
+      "options": {
+        "1": "Cognitive approach",
+        "2": "Experiential learning approach",
+        "3": "Enquiry approach",
+        "4": "Humanistic approach"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 30,
+        "printed_page": 30,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q79-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 79,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "‘Community’ is an importantteaching and learning resource,because—",
+      "options": {
+        "1": "it is inexpensive and accessible",
+        "2": "elderly people are wise and have time",
+        "3": "it provides learning opportunityin real setting",
+        "4": "one can accept all knowledgeavailable in the communityuncritically"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 31,
+        "printed_page": 31,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q80-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 80,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "In EVS teaching-learning, linkingclassroom learning to life outsideschool and enriching it implies—",
+      "options": {
+        "1": "going beyond the textbooks",
+        "2": "linking textbooks to globalenvironmental issues andconcerns",
+        "3": "whole school approach",
+        "4": "going beyond curriculum"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 31,
+        "printed_page": 31,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q81-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 81,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "To class III students, Rama taughtthat a father, mother and theirchildren constitute nuclear familyand if grandparents and otherrelatives stay along, then it is anextended family. What do you thinkof this?",
+      "options": {
+        "1": "The definition of a family isincorrect.",
+        "2": "Rama is insensitive towards herstudents.",
+        "3": "The teaching-learning approachis not inclusive.",
+        "4": "The concept of family has to betaught like this."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 31,
+        "printed_page": 31,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q82-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 82,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which of the following is/areactivity/activities in EVS classroom?",
+      "options": {
+        "1": "Picture reading",
+        "2": "Field visit",
+        "3": "Use of blackboard",
+        "4": "All of the above"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 32,
+        "printed_page": 32,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q83-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 83,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Environmental Studies curriculummay lead to holistic learning ofchildren if it is—",
+      "options": {
+        "1": "integrated",
+        "2": "inclusive",
+        "3": "thematic",
+        "4": "All of the above"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 32,
+        "printed_page": 32,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q84-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 84,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "The EVS textbook has a chapteron snake charmer. It is intendedto make children aware and besensitized—",
+      "options": {
+        "1": "that it is an illegal act",
+        "2": "for snake charmers as childrendo not see them often thesedays",
+        "3": "that snake charmers may notharm snakes and they need tobe provided with alternativesbefore depriving them of theirlivelihoods",
+        "4": "that animal keeping is goodsource of livelihood"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 32,
+        "printed_page": 32,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q85-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 85,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Which is most relevant to themid-day meal time in school?",
+      "options": {
+        "1": "It has nothing to do withteaching-learning.",
+        "2": "It is a good teaching-learningopportunity for EVS teaching-learning.",
+        "3": "It is for children who comeempty stomach to school.",
+        "4": "It wastes a lot of precious timeof teaching-learning."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 33,
+        "printed_page": 33,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q86-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 86,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What does ‘learning without burden’ in the context of EnvironmentalStudies imply?",
+      "options": {
+        "1": "Less weight of schoolbag",
+        "2": "Less number of chapters in EVS textbooks",
+        "3": "Load of incomprehension needsto be reduced",
+        "4": "The EVS curriculum needs to be reduced to half"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 33,
+        "printed_page": 33,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q87-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 87,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What purpose does group learningserve in an EVS classroom?",
+      "options": {
+        "1": "Boys and girls can learnseparately",
+        "2": "To segregate high performersand low achieving students andto do remedial teaching",
+        "3": "To inculcate values ofcooperation and workingtogether to enable each childparticipate actively and learn",
+        "4": "To manage students easily andreduce workload"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 33,
+        "printed_page": 33,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q88-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 88,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What is the full form of ‘BALA’?",
+      "options": {
+        "1": "Brain Aided LearningAssignment",
+        "2": "Braille as Learning Aid",
+        "3": "Building as Learning Aid",
+        "4": "Braille Aided LearningAssessment"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 34,
+        "printed_page": 34,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q89-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 89,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "What do ‘alternative frameworks’mean?",
+      "options": {
+        "1": "Textbook explanations ofvarious physical phenomena",
+        "2": "Ideas that differ from theformally accepted explanationsof the concepts",
+        "3": "Ideas presently held byscientists and social scientists",
+        "4": "All ideas that are firmly held bychildren"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 34,
+        "printed_page": 34,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q90-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 90,
+      "part": "3",
+      "part_name": "Environmental Studies",
+      "language": "en",
+      "question_text": "Women are weaker than men.It is a—",
+      "options": {
+        "1": "myth",
+        "2": "scientific fact",
+        "3": "stereotype",
+        "4": "superstition"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 34,
+        "printed_page": 34,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q91-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 91,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following is nota function of castles as expressedin the passage?",
+      "options": {
+        "1": "Castles served both offensiveand defensive purposesmilitarily.",
+        "2": "Castles served as symbols ofpower.",
+        "3": "Castles were important socialcentres in medieval England.",
+        "4": "Castles were the places whereknights would keep their besthorses."
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 35,
+        "printed_page": 35,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q92-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 92,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following bestdescribes the main idea inParagraph 2?",
+      "options": {
+        "1": "It describes how and whyWilliam the Conqueror tookcontrol of England.",
+        "2": "It explains why castles werefirst built in England and themilitary purposes they served.",
+        "3": "It shows how Norman lords were often scared and frequentlyretreated.",
+        "4": "It details all of the purposes that English castles served."
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q93-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 93,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "The original castles were first madefrom earth and timber because—",
+      "options": {
+        "1": "it takes a lot more time andenergy to build a stone castle",
+        "2": "it did not occur to people tobuild castles out of stone",
+        "3": "people did not realize how weakwooden castles would be against fire",
+        "4": "wooden castles were prettierthan dirty stone castles"
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q94-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 94,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Wooden castles were converted tostone castles as—",
+      "options": {
+        "1": "wooden castles take a long timeto build",
+        "2": "wooden castles are uncomfort-able",
+        "3": "stone castles offer better defense",
+        "4": "stone castles stay cooler in thesummer"
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q95-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 95,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following bestexplains how gunpowder was thenemesis of traditional castles?",
+      "options": {
+        "1": "Wars were fought with guns and hiding in castles was no longernecessary.",
+        "2": "Artillery forts with largecannons became more stylishthan traditional castles.",
+        "3": "Defending castles grew difficult,since attackers could just shootcastle defenders.",
+        "4": "Cannons were able to knockdown stone walls, so castlesoffered little protection."
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q96-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 96,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following titleswould best describe the content ofthis passage?",
+      "options": {
+        "1": "William the Conqueror: BringingCastles to England",
+        "2": "Defending the Castle: Techno-logies Used to Defend MedievalCastles",
+        "3": "A Short History of Castles:The Rise and Fall of Castlesin England",
+        "4": "Fancy Living: Learning aboutCastles, Palaces and Fortresses"
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q97-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 97,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following is anopinion?",
+      "options": {
+        "1": "Stone is more resistant to firethan wood.",
+        "2": "William the Conqueror built thefirst castles in England.",
+        "3": "It is unfortunate that castlesno longer serve their originalpurposes.",
+        "4": "Castles were used as officesof administration during theMiddle Ages."
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q98-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 98,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Choose a word from the givenoptions which means almost thesame as the word ‘vestiges’ used inthe passage.",
+      "options": {
+        "1": "Reminder",
+        "2": "Outskirts",
+        "3": "Farrago",
+        "4": "Creation"
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q99-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 99,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Choose a word which serves as theantonym of the word ‘pinnacle’.",
+      "options": {
+        "1": "Nadir",
+        "2": "Crest",
+        "3": "Apex",
+        "4": "Steeple"
+      },
+      "context_text": "PART—IVLanguage—I ENGLISH IMPORTANT: Candidates should attempt questions from Part—IV (Q. Nos.91 to 120), if they have opted for ENGLISH as Language—I only. to attacks by fire. Wooden castles weregradually replaced by stone, whichgreatly increased the strength of thesefortifications; however, being made fromstone did not make these castles entirelyfireproof. Attackers could hurl flamingobjects into the castle through the windows or ignite the wooden doors. Directions: Read the passage carefullyand answer the questions that follow(Q. Nos. 91 to 99) by selecting thecorrect/most appropriate options. When it comes to structures that areboth majestic and well-fortified, the classicEuropean castle is the pinnacle of design.Across the ages castles changed,developed, and eventually fell out of use,but they still command the fascination ofour culture. The demise of castles can ultimatelybe attributed to gunpowder. During the15th century, artillery became powerfulenough to break through stone walls. Thisgreatly undermined the military role ofcastles. Castles were then replaced byartillery forts that had no role in civiladministration, and country houses thatwere indefensible. Though castles no longer serve their original purposes, remainingcastles receive millions of visitors eachyear from those who wish to experiencethese majestic vestiges of a time longpassed. Castles were originally built in England byNorman invaders in 1066. As William theConqueror advanced through England,he fortified key positions to secure the landhe had taken. Castles also served as basesof operation for offensive attacks. Troopswere summoned to, organized around, anddeployed from castles. In this way castlesserved both offensive and defensive rolesin military operations. Not limited to military purposes, castlesalso served as offices from which the lordwould administer control over his fiefdom.They would address disputes, handlebusiness, feast, and enjoy festivities.In this way castles served as importantsocial centres in medieval England. Castles also served as symbols of power.",
+      "source": {
+        "pdf_page": 36,
+        "printed_page": 36,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q100-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 100,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "‘The Little Black Boy’ was born in—",
+      "options": {
+        "1": "the desert wastes",
+        "2": "the servants’ house",
+        "3": "the southern wild",
+        "4": "the east coast"
+      },
+      "context_text": "102.The mother of ‘the Little Black Boy’says God put people on earth— Directions: Read the extract givenbelow and answer the questions thatfollow (Q. Nos. 100 to 105) by selectingthe correct/most appropriate options. (1)to learn to endure his love (2)to work off their sins My mother bore me in the southern wild, And I am black, but O! my soul is white; (3)to prepare them for future trials White as an angel is the English child: But I am black as if bereav’d of light. (4)to learn how to treat oneanother as equals My mother taught me underneath a tree And sitting down before the heat of day, She took me on her lap and kissed me, 103.The mother of ‘the Little Black Boy’says his dark skin and face are— And pointing to the east began to say. (1)a blessing Look on the rising sun: there God does live (2)a veil And gives his light, and gives his heat away. (3)a curse And flowers and trees and beasts and (4)a cloud men receive Comfort in morning joy in the noonday. And we are put on earth a little space, 104.The phrase ‘like a shady grove’ is— That we may learn to bear the beams (1)a metaphor of love, And these black bodies and this (2)a simile sun-burnt face Is but a cloud, and like a shady grove. (3)an example of alliteration",
+      "source": {
+        "pdf_page": 37,
+        "printed_page": 37,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q101-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 101,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "‘The Little Black Boy’ wished thathe could be—",
+      "options": {
+        "1": "educated",
+        "2": "older",
+        "3": "free",
+        "4": "white"
+      },
+      "context_text": "102.The mother of ‘the Little Black Boy’says God put people on earth— Directions: Read the extract givenbelow and answer the questions thatfollow (Q. Nos. 100 to 105) by selectingthe correct/most appropriate options. (1)to learn to endure his love (2)to work off their sins My mother bore me in the southern wild, And I am black, but O! my soul is white; (3)to prepare them for future trials White as an angel is the English child: But I am black as if bereav’d of light. (4)to learn how to treat oneanother as equals My mother taught me underneath a tree And sitting down before the heat of day, She took me on her lap and kissed me, 103.The mother of ‘the Little Black Boy’says his dark skin and face are— And pointing to the east began to say. (1)a blessing Look on the rising sun: there God does live (2)a veil And gives his light, and gives his heat away. (3)a curse And flowers and trees and beasts and (4)a cloud men receive Comfort in morning joy in the noonday. And we are put on earth a little space, 104.The phrase ‘like a shady grove’ is— That we may learn to bear the beams (1)a metaphor of love, And these black bodies and this (2)a simile sun-burnt face Is but a cloud, and like a shady grove. (3)an example of alliteration",
+      "source": {
+        "pdf_page": 37,
+        "printed_page": 37,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q102-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 102,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "The mother of ‘the Little Black Boy’says God put people on earth—",
+      "options": {
+        "1": "to learn to endure his love",
+        "2": "to work off their sins",
+        "3": "to prepare them for future trials",
+        "4": "to learn how to treat oneanother as equals"
+      },
+      "context_text": "102.The mother of ‘the Little Black Boy’says God put people on earth— Directions: Read the extract givenbelow and answer the questions thatfollow (Q. Nos. 100 to 105) by selectingthe correct/most appropriate options. (1)to learn to endure his love (2)to work off their sins My mother bore me in the southern wild, And I am black, but O! my soul is white; (3)to prepare them for future trials White as an angel is the English child: But I am black as if bereav’d of light. (4)to learn how to treat oneanother as equals My mother taught me underneath a tree And sitting down before the heat of day, She took me on her lap and kissed me, 103.The mother of ‘the Little Black Boy’says his dark skin and face are— And pointing to the east began to say. (1)a blessing Look on the rising sun: there God does live (2)a veil And gives his light, and gives his heat away. (3)a curse And flowers and trees and beasts and (4)a cloud men receive Comfort in morning joy in the noonday. And we are put on earth a little space, 104.The phrase ‘like a shady grove’ is— That we may learn to bear the beams (1)a metaphor of love, And these black bodies and this (2)a simile sun-burnt face Is but a cloud, and like a shady grove. (3)an example of alliteration",
+      "source": {
+        "pdf_page": 37,
+        "printed_page": 37,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q103-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 103,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "The mother of ‘the Little Black Boy’says his dark skin and face are—",
+      "options": {
+        "1": "a blessing",
+        "2": "a veil",
+        "3": "a curse",
+        "4": "a cloud"
+      },
+      "context_text": "102.The mother of ‘the Little Black Boy’says God put people on earth— Directions: Read the extract givenbelow and answer the questions thatfollow (Q. Nos. 100 to 105) by selectingthe correct/most appropriate options. (1)to learn to endure his love (2)to work off their sins My mother bore me in the southern wild, And I am black, but O! my soul is white; (3)to prepare them for future trials White as an angel is the English child: But I am black as if bereav’d of light. (4)to learn how to treat oneanother as equals My mother taught me underneath a tree And sitting down before the heat of day, She took me on her lap and kissed me, 103.The mother of ‘the Little Black Boy’says his dark skin and face are— And pointing to the east began to say. (1)a blessing Look on the rising sun: there God does live (2)a veil And gives his light, and gives his heat away. (3)a curse And flowers and trees and beasts and (4)a cloud men receive Comfort in morning joy in the noonday. And we are put on earth a little space, 104.The phrase ‘like a shady grove’ is— That we may learn to bear the beams (1)a metaphor of love, And these black bodies and this (2)a simile sun-burnt face Is but a cloud, and like a shady grove. (3)an example of alliteration",
+      "source": {
+        "pdf_page": 37,
+        "printed_page": 37,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q104-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 104,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "The phrase ‘like a shady grove’ is—",
+      "options": {
+        "1": "a metaphor",
+        "2": "a simile",
+        "3": "an example of alliteration",
+        "4": "a personification"
+      },
+      "context_text": "102.The mother of ‘the Little Black Boy’says God put people on earth— Directions: Read the extract givenbelow and answer the questions thatfollow (Q. Nos. 100 to 105) by selectingthe correct/most appropriate options. (1)to learn to endure his love (2)to work off their sins My mother bore me in the southern wild, And I am black, but O! my soul is white; (3)to prepare them for future trials White as an angel is the English child: But I am black as if bereav’d of light. (4)to learn how to treat oneanother as equals My mother taught me underneath a tree And sitting down before the heat of day, She took me on her lap and kissed me, 103.The mother of ‘the Little Black Boy’says his dark skin and face are— And pointing to the east began to say. (1)a blessing Look on the rising sun: there God does live (2)a veil And gives his light, and gives his heat away. (3)a curse And flowers and trees and beasts and (4)a cloud men receive Comfort in morning joy in the noonday. And we are put on earth a little space, 104.The phrase ‘like a shady grove’ is— That we may learn to bear the beams (1)a metaphor of love, And these black bodies and this (2)a simile sun-burnt face Is but a cloud, and like a shady grove. (3)an example of alliteration",
+      "source": {
+        "pdf_page": 37,
+        "printed_page": 37,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q105-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 105,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Through the phrase ‘as if bereav’dof light’, the poet hints at—",
+      "options": {
+        "1": "low self-esteem of the child",
+        "2": "lack of hope for the future",
+        "3": "colour of the boy",
+        "4": "All of the above"
+      },
+      "context_text": "102.The mother of ‘the Little Black Boy’says God put people on earth— Directions: Read the extract givenbelow and answer the questions thatfollow (Q. Nos. 100 to 105) by selectingthe correct/most appropriate options. (1)to learn to endure his love (2)to work off their sins My mother bore me in the southern wild, And I am black, but O! my soul is white; (3)to prepare them for future trials White as an angel is the English child: But I am black as if bereav’d of light. (4)to learn how to treat oneanother as equals My mother taught me underneath a tree And sitting down before the heat of day, She took me on her lap and kissed me, 103.The mother of ‘the Little Black Boy’says his dark skin and face are— And pointing to the east began to say. (1)a blessing Look on the rising sun: there God does live (2)a veil And gives his light, and gives his heat away. (3)a curse And flowers and trees and beasts and (4)a cloud men receive Comfort in morning joy in the noonday. And we are put on earth a little space, 104.The phrase ‘like a shady grove’ is— That we may learn to bear the beams (1)a metaphor of love, And these black bodies and this (2)a simile sun-burnt face Is but a cloud, and like a shady grove. (3)an example of alliteration",
+      "source": {
+        "pdf_page": 37,
+        "printed_page": 37,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q106-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 106,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Iconic mode of learning is based onthe system of using—",
+      "options": {
+        "1": "a variety of activities",
+        "2": "symbols",
+        "3": "images and diagrams",
+        "4": "different types of graph"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q107-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 107,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "While reading for comprehension,we understand that some pairs areexamples of homograph. Which oneof the following is a homograph?",
+      "options": {
+        "1": "warm/tepid [being neither toohot nor too cold]",
+        "2": "lead [metal]/lead [give direction]",
+        "3": "lead [give direction]/dead [mortal]",
+        "4": "mail [post]/male [gender]"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q108-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 108,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "A ‘sight word’ is a vocabulary item—",
+      "options": {
+        "1": "that needs proper visualunderstanding of the context",
+        "2": "that is to be learnt by heart",
+        "3": "that the reader recognizes andfinds meaningful on sightwithout a complicated analysis",
+        "4": "that helps in judging theeffectiveness of the author’sstyle"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q109-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 109,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following methodsis suggested for teaching grammarat primary level?",
+      "options": {
+        "1": "Deductive method",
+        "2": "Textbook method",
+        "3": "Inductive method",
+        "4": "Translation method"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q110-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 110,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Flower and Hayes regarded whichone of the following skills as‘problem-creating and solving skill’?",
+      "options": {
+        "1": "Listening",
+        "2": "Speaking",
+        "3": "Reading",
+        "4": "Writing"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q111-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 111,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Find out the function word fromthe following.",
+      "options": {
+        "1": "And",
+        "2": "Champion",
+        "3": "Handsome",
+        "4": "Seizing"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q112-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 112,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "What do you mean by ‘review’?",
+      "options": {
+        "1": "Guess",
+        "2": "Evaluation",
+        "3": "Critical evaluation",
+        "4": "Assessment"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q113-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 113,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Content words are called—",
+      "options": {
+        "1": "functors",
+        "2": "grammatical words",
+        "3": "lexical words",
+        "4": "empty words"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 38,
+        "printed_page": 38,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q114-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 114,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "‘Cloze’ means—",
+      "options": {
+        "1": "finishing",
+        "2": "missing part",
+        "3": "close",
+        "4": "assessing"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q115-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 115,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "The last stage of writing is—",
+      "options": {
+        "1": "controlled writing",
+        "2": "guided writing",
+        "3": "free writing",
+        "4": "advanced writing"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q116-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 116,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "The procedure of alphabeticmethod is—",
+      "options": {
+        "1": "letters—words—phrases —sentences",
+        "2": "words—phrases—sentences —paragraph",
+        "3": "letters—words—sentences —paragraph",
+        "4": "letters—words—phrases —paragraph"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q117-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 117,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "“You ask, what has my governmentdone for you? I can answer in twowords a lot!” The question put up here is—",
+      "options": {
+        "1": "rhetorical",
+        "2": "stylized",
+        "3": "a prompt",
+        "4": "explanatory"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q118-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 118,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "According to the observation in theNational Curriculum Framework(NCF)–2005, English is a _____language in India.",
+      "options": {
+        "1": "second",
+        "2": "foreign",
+        "3": "first",
+        "4": "global"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q119-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 119,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Read the exchange: Teacher: Shall we go out to the garden and find out thenames of those flowersnear the corridor? Student: Yes, yes, yeah. Teacher: Yes, Ma’am, please. Here, the teacher—",
+      "options": {
+        "1": "relates language function withpoliteness",
+        "2": "makes a polite suggestion tostart reading",
+        "3": "confirms the student’s request",
+        "4": "offers an alternative languageactivity"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q120-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 120,
+      "part": "4",
+      "part_name": "Language-I",
+      "language": "en",
+      "question_text": "Which one of the following helpsin learning the second languagewithout using the printed text?",
+      "options": {
+        "1": "Natural approach",
+        "2": "Language immersion",
+        "3": "Grammar-translation method",
+        "4": "Situational approach"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 39,
+        "printed_page": 39,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q121-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 121,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following is notthe whole truth according to thepassage?",
+      "options": {
+        "1": "Man has a desire for beauty and grace.",
+        "2": "Necessity is the mother ofinvention.",
+        "3": "Man desires to cut down hisneeds and wants.",
+        "4": "Man learns to be happy withwhat he has."
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 45,
+        "printed_page": 45,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q122-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 122,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "What does the maxim mentioned inthe passage teach us?",
+      "options": {
+        "1": "To be worldly in the strict senseof the term",
+        "2": "To be slave of our needs andwants",
+        "3": "To endeavour constantly tocreate new passions and desires",
+        "4": "To be active in life and dosomething to help mankind"
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 45,
+        "printed_page": 45,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q123-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 123,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "What does the spirit within man tellhim to do?",
+      "options": {
+        "1": "To be a mixture of variedmotives",
+        "2": "To evaluate the situationsintelligently",
+        "3": "To cut down his desires andpassions",
+        "4": "To acquire more and morewealth and comforts"
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 45,
+        "printed_page": 45,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q124-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 124,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which of the following statementsis/are true in the context of thepassage? I.Man should be passive in hisattitude to life. II.Spirit of inventiveness may notstand in good stead in solvingevery new problem. III. Man has a passion for more and more knowledge.",
+      "options": {
+        "1": "Only I",
+        "2": "Only I and II",
+        "3": "Only III",
+        "4": "Only II and III"
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 46,
+        "printed_page": 46,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q125-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 125,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following is similarin meaning to the word ‘maxim’as used in the passage?",
+      "options": {
+        "1": "Principle",
+        "2": "Direction",
+        "3": "Value",
+        "4": "Observation"
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 46,
+        "printed_page": 46,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q126-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 126,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following is notthe characteristic of man as perthe passage?",
+      "options": {
+        "1": "Man has many needs andmotives.",
+        "2": "Man creates many needs forhimself.",
+        "3": "Man seeks to satisfy his needs.",
+        "4": "Man desires to have more andmore comforts and money."
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 46,
+        "printed_page": 46,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q127-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 127,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the followingstatements is not true as per thepassage?",
+      "options": {
+        "1": "Spirit of inventiveness will stand in good stead.",
+        "2": "Man is the subject of variouswants.",
+        "3": "Man creates new needs becausethey are sometimes good orbeautiful.",
+        "4": "Man’s inner spirit tells him to be on the look out for newer andhigher wants."
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 46,
+        "printed_page": 46,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q128-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 128,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Choose the word which is oppositein meaning to the word ‘seeks’ asused in the passage.",
+      "options": {
+        "1": "Deplores",
+        "2": "Avoids",
+        "3": "Vanishes",
+        "4": "Approaches"
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 46,
+        "printed_page": 46,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q129-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 129,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following is similarin meaning to the word ‘exhorting’as used in the passage?",
+      "options": {
+        "1": "Urging",
+        "2": "Supporting",
+        "3": "Demanding",
+        "4": "Clarifying"
+      },
+      "context_text": "PART—VLanguage—II ENGLISH IMPORTANT: Candidates should attempt questions from Part—V (Q. Nos.121 to 150), if they have opted for ENGLISH as Language—II only.",
+      "source": {
+        "pdf_page": 46,
+        "printed_page": 46,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q130-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 130,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following is nota product that has been madewith Kevlar?",
+      "options": {
+        "1": "Tennis racquets",
+        "2": "Bungee jumping cords",
+        "3": "Brake pads",
+        "4": "Body armor"
+      },
+      "context_text": "Kevlar is a remarkable fabric known for itsstrength and durability. Since its inventionit has found its way into a wide varietyof products. Kevlar is used in sportingequipment like bike tires, bowstrings andtennis racquets. It is used in musicalinstruments like drumheads, reeds andspeaker cones. And it is used in protectivegear like motorcycle safety jackets, glovesand shoes. However, Kevlar is best knownfor its ability to stop bullets. Directions: Read the passage givenbelow and answer the questions thatfollow (Q. Nos. 130 to 135) by selectingthe correct/most appropriate options. Did you know that there is a fiber that isas flexible and lightweight as nylon yetfive times stronger than steel? Did youknow that this fabric is resistant totemperatures higher than 500 degreesFahrenheit? Did you know that a womaninvented this fiber? This miraculous fabricis called Kevlar and it is used to makeeverything from body armor to musicalinstruments. Richard Armellino created the first Kevlarbulletproof vest in 1975. It contained15 layers of Kevlar, which could stophandgun and shotgun bullets. The vestalso had a steel plate over the heart,which made the vest strong enough to stoprifle rounds. Vests like Armellino’s werequickly picked up by police forces andit is estimated that by 1990, half of allpolice officers in America wore bulletproofvests daily. By 2006, there were over 2000documented police vest ‘saves’, orinstances where officers were protectedfrom deadly wounds by wearing bulletproof vests. The year was 1964. There were gasolineshortages due to conflict in the MiddleEast. A Polish-American chemist namedStephanie Louise Kwolek was working forDuPont, an American chemical company.She and her group were trying to makea lightweight, yet durable fiber to be usedin tires. Lighter tires would allow vehiclesto get better gas mileage, but the tires hadto be strong enough to resist the wear andtear of the road. They had been workingon the problem for some time and had little success, until Kwolek had a breakthrough.",
+      "source": {
+        "pdf_page": 47,
+        "printed_page": 47,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q131-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 131,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "For which of the followingcharacteristics is Kevlar known?",
+      "options": {
+        "1": "Heat resistant",
+        "2": "Strength",
+        "3": "Durability",
+        "4": "All of the above"
+      },
+      "context_text": "Kevlar is a remarkable fabric known for itsstrength and durability. Since its inventionit has found its way into a wide varietyof products. Kevlar is used in sportingequipment like bike tires, bowstrings andtennis racquets. It is used in musicalinstruments like drumheads, reeds andspeaker cones. And it is used in protectivegear like motorcycle safety jackets, glovesand shoes. However, Kevlar is best knownfor its ability to stop bullets. Directions: Read the passage givenbelow and answer the questions thatfollow (Q. Nos. 130 to 135) by selectingthe correct/most appropriate options. Did you know that there is a fiber that isas flexible and lightweight as nylon yetfive times stronger than steel? Did youknow that this fabric is resistant totemperatures higher than 500 degreesFahrenheit? Did you know that a womaninvented this fiber? This miraculous fabricis called Kevlar and it is used to makeeverything from body armor to musicalinstruments. Richard Armellino created the first Kevlarbulletproof vest in 1975. It contained15 layers of Kevlar, which could stophandgun and shotgun bullets. The vestalso had a steel plate over the heart,which made the vest strong enough to stoprifle rounds. Vests like Armellino’s werequickly picked up by police forces andit is estimated that by 1990, half of allpolice officers in America wore bulletproofvests daily. By 2006, there were over 2000documented police vest ‘saves’, orinstances where officers were protectedfrom deadly wounds by wearing bulletproof vests. The year was 1964. There were gasolineshortages due to conflict in the MiddleEast. A Polish-American chemist namedStephanie Louise Kwolek was working forDuPont, an American chemical company.She and her group were trying to makea lightweight, yet durable fiber to be usedin tires. Lighter tires would allow vehiclesto get better gas mileage, but the tires hadto be strong enough to resist the wear andtear of the road. They had been workingon the problem for some time and had little success, until Kwolek had a breakthrough.",
+      "source": {
+        "pdf_page": 47,
+        "printed_page": 47,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q132-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 132,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following causedthe search for a fabric like Kevlar?",
+      "options": {
+        "1": "A shortage in the gasolinesupply",
+        "2": "A desire to protect police officers",
+        "3": "The need to replace asbestos",
+        "4": "The want of better musicalinstruments"
+      },
+      "context_text": "Kevlar is a remarkable fabric known for itsstrength and durability. Since its inventionit has found its way into a wide varietyof products. Kevlar is used in sportingequipment like bike tires, bowstrings andtennis racquets. It is used in musicalinstruments like drumheads, reeds andspeaker cones. And it is used in protectivegear like motorcycle safety jackets, glovesand shoes. However, Kevlar is best knownfor its ability to stop bullets. Directions: Read the passage givenbelow and answer the questions thatfollow (Q. Nos. 130 to 135) by selectingthe correct/most appropriate options. Did you know that there is a fiber that isas flexible and lightweight as nylon yetfive times stronger than steel? Did youknow that this fabric is resistant totemperatures higher than 500 degreesFahrenheit? Did you know that a womaninvented this fiber? This miraculous fabricis called Kevlar and it is used to makeeverything from body armor to musicalinstruments. Richard Armellino created the first Kevlarbulletproof vest in 1975. It contained15 layers of Kevlar, which could stophandgun and shotgun bullets. The vestalso had a steel plate over the heart,which made the vest strong enough to stoprifle rounds. Vests like Armellino’s werequickly picked up by police forces andit is estimated that by 1990, half of allpolice officers in America wore bulletproofvests daily. By 2006, there were over 2000documented police vest ‘saves’, orinstances where officers were protectedfrom deadly wounds by wearing bulletproof vests. The year was 1964. There were gasolineshortages due to conflict in the MiddleEast. A Polish-American chemist namedStephanie Louise Kwolek was working forDuPont, an American chemical company.She and her group were trying to makea lightweight, yet durable fiber to be usedin tires. Lighter tires would allow vehiclesto get better gas mileage, but the tires hadto be strong enough to resist the wear andtear of the road. They had been workingon the problem for some time and had little success, until Kwolek had a breakthrough.",
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q133-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 133,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "A vest made of 15 layers of Kevlarwith no steel plates could stop allbut which of the following rounds?",
+      "options": {
+        "1": "Handgun rounds",
+        "2": "Shotgun pellets",
+        "3": "Rifle rounds",
+        "4": "It could stop all of the above"
+      },
+      "context_text": "Kevlar is a remarkable fabric known for itsstrength and durability. Since its inventionit has found its way into a wide varietyof products. Kevlar is used in sportingequipment like bike tires, bowstrings andtennis racquets. It is used in musicalinstruments like drumheads, reeds andspeaker cones. And it is used in protectivegear like motorcycle safety jackets, glovesand shoes. However, Kevlar is best knownfor its ability to stop bullets. Directions: Read the passage givenbelow and answer the questions thatfollow (Q. Nos. 130 to 135) by selectingthe correct/most appropriate options. Did you know that there is a fiber that isas flexible and lightweight as nylon yetfive times stronger than steel? Did youknow that this fabric is resistant totemperatures higher than 500 degreesFahrenheit? Did you know that a womaninvented this fiber? This miraculous fabricis called Kevlar and it is used to makeeverything from body armor to musicalinstruments. Richard Armellino created the first Kevlarbulletproof vest in 1975. It contained15 layers of Kevlar, which could stophandgun and shotgun bullets. The vestalso had a steel plate over the heart,which made the vest strong enough to stoprifle rounds. Vests like Armellino’s werequickly picked up by police forces andit is estimated that by 1990, half of allpolice officers in America wore bulletproofvests daily. By 2006, there were over 2000documented police vest ‘saves’, orinstances where officers were protectedfrom deadly wounds by wearing bulletproof vests. The year was 1964. There were gasolineshortages due to conflict in the MiddleEast. A Polish-American chemist namedStephanie Louise Kwolek was working forDuPont, an American chemical company.She and her group were trying to makea lightweight, yet durable fiber to be usedin tires. Lighter tires would allow vehiclesto get better gas mileage, but the tires hadto be strong enough to resist the wear andtear of the road. They had been workingon the problem for some time and had little success, until Kwolek had a breakthrough.",
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q134-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 134,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "How much stronger is Kevlar thansteel?",
+      "options": {
+        "1": "Half as strong",
+        "2": "As strong",
+        "3": "Five times as strong",
+        "4": "200 times as strong"
+      },
+      "context_text": "Kevlar is a remarkable fabric known for itsstrength and durability. Since its inventionit has found its way into a wide varietyof products. Kevlar is used in sportingequipment like bike tires, bowstrings andtennis racquets. It is used in musicalinstruments like drumheads, reeds andspeaker cones. And it is used in protectivegear like motorcycle safety jackets, glovesand shoes. However, Kevlar is best knownfor its ability to stop bullets. Directions: Read the passage givenbelow and answer the questions thatfollow (Q. Nos. 130 to 135) by selectingthe correct/most appropriate options. Did you know that there is a fiber that isas flexible and lightweight as nylon yetfive times stronger than steel? Did youknow that this fabric is resistant totemperatures higher than 500 degreesFahrenheit? Did you know that a womaninvented this fiber? This miraculous fabricis called Kevlar and it is used to makeeverything from body armor to musicalinstruments. Richard Armellino created the first Kevlarbulletproof vest in 1975. It contained15 layers of Kevlar, which could stophandgun and shotgun bullets. The vestalso had a steel plate over the heart,which made the vest strong enough to stoprifle rounds. Vests like Armellino’s werequickly picked up by police forces andit is estimated that by 1990, half of allpolice officers in America wore bulletproofvests daily. By 2006, there were over 2000documented police vest ‘saves’, orinstances where officers were protectedfrom deadly wounds by wearing bulletproof vests. The year was 1964. There were gasolineshortages due to conflict in the MiddleEast. A Polish-American chemist namedStephanie Louise Kwolek was working forDuPont, an American chemical company.She and her group were trying to makea lightweight, yet durable fiber to be usedin tires. Lighter tires would allow vehiclesto get better gas mileage, but the tires hadto be strong enough to resist the wear andtear of the road. They had been workingon the problem for some time and had little success, until Kwolek had a breakthrough.",
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q135-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 135,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "What product was Kwolek trying toimprove when she invented Kevlar?",
+      "options": {
+        "1": "Tires",
+        "2": "Milk",
+        "3": "Brake pads",
+        "4": "Armor"
+      },
+      "context_text": "Kevlar is a remarkable fabric known for itsstrength and durability. Since its inventionit has found its way into a wide varietyof products. Kevlar is used in sportingequipment like bike tires, bowstrings andtennis racquets. It is used in musicalinstruments like drumheads, reeds andspeaker cones. And it is used in protectivegear like motorcycle safety jackets, glovesand shoes. However, Kevlar is best knownfor its ability to stop bullets. Directions: Read the passage givenbelow and answer the questions thatfollow (Q. Nos. 130 to 135) by selectingthe correct/most appropriate options. Did you know that there is a fiber that isas flexible and lightweight as nylon yetfive times stronger than steel? Did youknow that this fabric is resistant totemperatures higher than 500 degreesFahrenheit? Did you know that a womaninvented this fiber? This miraculous fabricis called Kevlar and it is used to makeeverything from body armor to musicalinstruments. Richard Armellino created the first Kevlarbulletproof vest in 1975. It contained15 layers of Kevlar, which could stophandgun and shotgun bullets. The vestalso had a steel plate over the heart,which made the vest strong enough to stoprifle rounds. Vests like Armellino’s werequickly picked up by police forces andit is estimated that by 1990, half of allpolice officers in America wore bulletproofvests daily. By 2006, there were over 2000documented police vest ‘saves’, orinstances where officers were protectedfrom deadly wounds by wearing bulletproof vests. The year was 1964. There were gasolineshortages due to conflict in the MiddleEast. A Polish-American chemist namedStephanie Louise Kwolek was working forDuPont, an American chemical company.She and her group were trying to makea lightweight, yet durable fiber to be usedin tires. Lighter tires would allow vehiclesto get better gas mileage, but the tires hadto be strong enough to resist the wear andtear of the road. They had been workingon the problem for some time and had little success, until Kwolek had a breakthrough.",
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q136-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 136,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "The study of meaning in a languageis known as—",
+      "options": {
+        "1": "syntax",
+        "2": "semantics",
+        "3": "morphology",
+        "4": "linguistics"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q137-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 137,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "The teacher tells a story aboutanimals. Children make animalnoises every time they hear thename of the animal. It is—",
+      "options": {
+        "1": "total physical response",
+        "2": "communicative language teaching",
+        "3": "grammar translation",
+        "4": "reading approach"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q138-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 138,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Any of a wide variety of exercises,activities or devices used in thelanguage classroom for realizinglesson objectives is known as—",
+      "options": {
+        "1": "method",
+        "2": "technique",
+        "3": "syllabus",
+        "4": "approach"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 48,
+        "printed_page": 48,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q139-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 139,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "A test which is administered atthe end of a language course forremedial teaching is—",
+      "options": {
+        "1": "diagnostic test",
+        "2": "placement test",
+        "3": "achievement test",
+        "4": "memory test"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 49,
+        "printed_page": 49,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q140-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 140,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "The practice of grammaticalstructures in a controlled mannercan be done by—",
+      "options": {
+        "1": "correcting wrong sentencesproduced by learners",
+        "2": "gap-filling grammar exercises",
+        "3": "writing paragraphs and essays",
+        "4": "explaining the use of particularstructures"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 49,
+        "printed_page": 49,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q141-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 141,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "“In the backyard, the dog barkedand howled at the cat” is anexample of—",
+      "options": {
+        "1": "simple sentence",
+        "2": "sentence fragment",
+        "3": "complex sentence",
+        "4": "complex compound sentence"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 49,
+        "printed_page": 49,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q142-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 142,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following methodsof teaching cannot be used inter-changeably with each other?",
+      "options": {
+        "1": "Reference method",
+        "2": "Incidental method",
+        "3": "Direct method",
+        "4": "Correlative method"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 49,
+        "printed_page": 49,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q143-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 143,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the followingstatements is true?",
+      "options": {
+        "1": "All formative tasks are meantfor assessment.",
+        "2": "Assignments need to be givenas classwork followed byhomework everyday to providevariety and practice.",
+        "3": "Formative assessment, to beeffective, must be conductedonly after teaching a lesson.",
+        "4": "While all formative tasks aremeant for improving teaching-learning, some are used forassessment too."
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 49,
+        "printed_page": 49,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q144-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 144,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Mother tongue influence can beeffectively minimized in theclassroom by—",
+      "options": {
+        "1": "using the mother tongue moreoften",
+        "2": "giving examples from themother tongue",
+        "3": "giving a lot of exposure in thetarget language",
+        "4": "giving inputs from the targetlanguage in a simple, gradedmanner"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 49,
+        "printed_page": 49,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q145-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 145,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Which one of the following sentences is a result of error arising out oftranslation from our language toanother?",
+      "options": {
+        "1": "The teacher is givingexamination.",
+        "2": "The students are giving theirexamination.",
+        "3": "My joy knew no bounds.",
+        "4": "Are you going by the train?"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 50,
+        "printed_page": 50,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q146-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 146,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Reading skill can be developedbest by—",
+      "options": {
+        "1": "writing answers to questionson text",
+        "2": "focusing on the use of wordsfrom context in the text",
+        "3": "doing vocabulary exercises",
+        "4": "doing quizzes and playing wordgames"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 50,
+        "printed_page": 50,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q147-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 147,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "Who would be the implementer ofeducation?",
+      "options": {
+        "1": "Teacher",
+        "2": "Education Department",
+        "3": "Student",
+        "4": "Curriculum"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 50,
+        "printed_page": 50,
+        "column": "left",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q148-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 148,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "A listening stimulus—",
+      "options": {
+        "1": "presents input to separategroups of students who gatheragain to share it",
+        "2": "is listening to a goodcommentary to review it",
+        "3": "enables students to discussa set of criteria that theyprioritize to complete andpresent a task",
+        "4": "presents an information gapactivity such as giving directions"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 50,
+        "printed_page": 50,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q149-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 149,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "If a language teacher has taughta topic in the class and no studentasks questions in her class, thenmay be—",
+      "options": {
+        "1": "students are not payingattention",
+        "2": "she had been an excellentteacher",
+        "3": "whatever was taught wasbeyond the comprehension ofthe students",
+        "4": "all the students are at a higherlevel of learning"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 50,
+        "printed_page": 50,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    },
+    {
+      "id": "CTET-DEC-2018-I-Q150-EN",
+      "exam": "CTET-DEC-2018",
+      "booklet_code": "I",
+      "question_number": 150,
+      "part": "5",
+      "part_name": "Language-II",
+      "language": "en",
+      "question_text": "The founder of Structural Grammarwas—",
+      "options": {
+        "1": "Newfield",
+        "2": "Chapman",
+        "3": "Chomsky",
+        "4": "Fries"
+      },
+      "context_text": null,
+      "source": {
+        "pdf_page": 50,
+        "printed_page": 50,
+        "column": "right",
+        "bbox": null,
+        "has_embedded_images": false,
+        "visual_fallback": null
+      },
+      "extraction": {
+        "method": "pdf_text",
+        "confidence": 0.99,
+        "status": "verified",
+        "warnings": []
+      }
+    }
+  ],
+  "paper_id": "CTET-DEC-2018-PAPER-I-I"
+}
