@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "paper_id": "STD10-MATH-SCI-DEMO-20",
+  "exam": "STD10-DEMO",
+  "session": "DEMO-2026",
+  "exam_date": null,
+  "paper": "CLASS-X-MOCK",
+  "set": "STD10DEMO",
+  "booklet_code": "STD10DEMO",
+  "answers": {
+    "1": "2",
+    "2": "3",
+    "3": "3",
+    "4": "4",
+    "5": "2",
+    "6": "1",
+    "7": "3",
+    "8": "2",
+    "9": "1",
+    "10": "3",
+    "11": "2",
+    "12": "4",
+    "13": "2",
+    "14": "2",
+    "15": "3",
+    "16": "1",
+    "17": "4",
+    "18": "2",
+    "19": "1",
+    "20": "3"
+  },
+  "language_variants": {},
+  "answer_sources": {
+    "main": "Synthetic answer key authored for application testing only. These are not official exam answers."
+  },
+  "inferred_answers": {},
+  "count": 20,
+  "status": "demo",
+  "source_type": "hypothetical_test_data"
+}

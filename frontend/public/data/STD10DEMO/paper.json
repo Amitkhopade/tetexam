@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0.0",
+  "paper_id": "STD10-MATH-SCI-DEMO-20",
+  "exam": "STD10-DEMO",
+  "session": "DEMO-2026",
+  "exam_date": null,
+  "title": "Class 10 Mathematics & Science Mock Test — 20 Questions",
+  "booklet_code": "STD10DEMO",
+  "question_count": 20,
+  "duration_minutes": 30,
+  "available_languages": [
+    "en"
+  ],
+  "paper": "CLASS-X-MOCK",
+  "question_records": 20,
+  "negative_marking": false,
+  "status": "published",
+  "source_type": "hypothetical_test_data",
+  "description": "Hypothetical 20-question Class 10 Mathematics and Science multiple-choice test created solely to validate the Question Paper Navigator data import and scoring flow."
+}

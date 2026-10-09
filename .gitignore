@@ -1,0 +1,14 @@
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env
+.env.local
+coverage/
+.pytest_cache/
+
+# Local/source PDFs are intentionally not committed by default.
+sample_inputs/*.pdf
+source/*.pdf

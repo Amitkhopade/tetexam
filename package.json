@@ -1,0 +1,22 @@
+{
+  "name": "question-paper-navigator",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix frontend install",
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "test:web": "npm --prefix frontend run test",
+    "extract:k": "PYTHONPATH=processor/src python processor/src/extract_paper.py source/K/SET-1_PAPER-I_ACF-26-I-K.pdf --booklet K --output data/papers/K/questions.json --asset-root frontend/public/assets",
+    "extract:l": "PYTHONPATH=processor/src python processor/src/extract_paper.py source/L/SET-2_PAPER-I_ACF-26-I-L.pdf --booklet L --output data/papers/L/questions.json --asset-root frontend/public/assets",
+    "sync:data": "python processor/src/sync_data.py",
+    "validate": "python processor/src/validate_dataset.py",
+    "extract:n": "PYTHONPATH=processor/src python processor/src/extract_paper.py source/N/SET-4_PAPER-I_ACF-26-I-N.pdf --booklet N --output data/papers/N/questions.json --asset-root frontend/public/assets",
+    "admin:local": "python processor/local_admin_server.py",
+    "test": "python -m pytest -q processor/tests",
+    "extract:m": "PYTHONPATH=processor/src python processor/src/extract_paper.py source/M/SET-3_PAPER-I_ACF-26-I-M.pdf --booklet M --output data/papers/M/questions.json --asset-root frontend/public/assets",
+    "test:datasets": "node tools/test_all_datasets.mjs",
+    "test:admin-ai": "node tools/test_admin_ai.mjs",
+    "test:session": "node tools/test_exam_session.mjs",
+    "test:bundle": "node tools/test_bundle_integrity.mjs"
+  }
+}

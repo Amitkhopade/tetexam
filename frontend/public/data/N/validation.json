@@ -1,0 +1,24 @@
+{
+  "schema_version": "2.0.0",
+  "paper_id": "ACF-26-I-PAPER-I-N",
+  "question_records": 300,
+  "expected_question_records": 300,
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "default_answer_count": 150,
+  "variant_answer_counts": {
+    "en": 60,
+    "hi": 60
+  },
+  "missing_default_answers": [],
+  "missing_variant_answers": {
+    "en": [],
+    "hi": []
+  },
+  "inferred_answer_questions": [],
+  "issues": [],
+  "validation_status": "PASS",
+  "publication_status": "published"
+}

@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "questionCount": 20,
+  "physicalQuestionCount": 20,
+  "answerCount": 20,
+  "physicalAnswerCount": 20,
+  "missingAnswers": [],
+  "booklet": "STD10DEMO",
+  "paperId": "STD10-MATH-SCI-DEMO-20",
+  "languages": [
+    "en"
+  ],
+  "publication_status": "published",
+  "saved_at": "2026-10-09T17:43:00.392Z"
+}
