@@ -12,3 +12,14 @@ coverage/
 # Local/source PDFs are intentionally not committed by default.
 sample_inputs/*.pdf
 source/*.pdf
+**/node_modules/
+**/dist/
+**/build/
+**/__pycache__/
+**/.venv/
+**/.venv-*/
+.env.*
+!**/.env.example
+*.bak
+*.bak-*
+*.log
