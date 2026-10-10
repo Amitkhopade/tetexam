@@ -1,0 +1,21 @@
+[build]
+  command = "npm --prefix frontend install --no-audit --no-fund && npm run build"
+  publish = "frontend/dist"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["frontend/public/data/catalog.json"]
+
+# Single-page app: serve index.html for client-side routes.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
