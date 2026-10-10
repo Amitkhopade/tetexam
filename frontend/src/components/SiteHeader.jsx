@@ -11,6 +11,8 @@ export default function SiteHeader({ session, tab, onTabChange, onLogout }) {
     { id: 'exams', label: 'Question Papers', icon: <MenuBookRoundedIcon fontSize="small" /> },
     { id: 'instructions', label: 'Instructions' },
     { id: 'about', label: 'About' },
+    { id: 'pricing', label: 'Pricing' },
+    { id: 'profile', label: 'My Account' },
     ...(isAdmin ? [{ id: 'admin', label: 'Admin', icon: <AdminPanelSettingsRoundedIcon fontSize="small" /> }] : []),
   ]
   return (

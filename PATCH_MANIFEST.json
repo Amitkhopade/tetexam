@@ -1,0 +1,287 @@
+{
+  "patch_name": "Question Paper Navigator Account, Payments and Public Site Patch",
+  "target": "Existing consolidated question-paper-platform project with Admin Master Prompt UI patch already applied",
+  "not_a_full_project_zip": true,
+  "preserves_existing_H_K_L_M_N_data": true,
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "a2de7f3875c45a41d4397bd139c8f36dcbeaee6e6b1c3d4131b1b0a01748107d",
+      "bytes": 682
+    },
+    {
+      "path": "ENHANCEMENT_CHANGELOG_AUTH_PAYMENT.md",
+      "sha256": "d0b5688a30391ca76817044a91e0a7e1b6c7e839274caa54c4a03ed056e210f5",
+      "bytes": 2941
+    },
+    {
+      "path": "api/_lib/catalog.js",
+      "sha256": "6f4cb4eb770f7aedea6c87ec8c776de0bc6785bafb35b4feba20ca513a5b3f94",
+      "bytes": 1739
+    },
+    {
+      "path": "api/_lib/dataset-validation.js",
+      "sha256": "fc1581dea4042bdce5a8cf66eb874cebeceab0d13d4b377391a505780ed0c0d5",
+      "bytes": 3961
+    },
+    {
+      "path": "api/_lib/db.js",
+      "sha256": "5ba945fe233789cb8a568bd3a1a00cc0ae70f42598d136357cdcc406225cee8b",
+      "bytes": 642
+    },
+    {
+      "path": "api/_lib/email.js",
+      "sha256": "1ff8ce4a13717fc512c7d74eeada007d5bc92342d0da76d1c5f49035e0b33f0e",
+      "bytes": 2954
+    },
+    {
+      "path": "api/_lib/free-papers.js",
+      "sha256": "3124c8b4d919d22b89999dc6c941091dd081db7614dc11512e6d3c075c75a13e",
+      "bytes": 274
+    },
+    {
+      "path": "api/_lib/http.js",
+      "sha256": "5d822e81972da3033febc51f4d9f656efec025f3efd4762c9c9bd25392e081f8",
+      "bytes": 2749
+    },
+    {
+      "path": "api/_lib/payment-signatures.js",
+      "sha256": "bf2298fd03d95bb1251a0575d6da544a38d034daff46c7a75774685787263115",
+      "bytes": 971
+    },
+    {
+      "path": "api/_lib/payment.js",
+      "sha256": "8c27027bc88716602542c9bbd27bd559cc42f39c39fece60a2bea049858bf5c1",
+      "bytes": 2947
+    },
+    {
+      "path": "api/_lib/security.js",
+      "sha256": "506c5c45476c92acb5568ec55620f703ba37a8ae8c3cb1a5073745779914a7ef",
+      "bytes": 7002
+    },
+    {
+      "path": "api/admin/ai/run.js",
+      "sha256": "606ecf74b2d2a7a19ca6cd6a785396126e4cc72f8b069530cb4b6cbe30be133f",
+      "bytes": 1180
+    },
+    {
+      "path": "api/admin/assessments.js",
+      "sha256": "210754313f37d3b42c49ad65ccd600eb5ec1358854db2d18d9242105a94ba2bd",
+      "bytes": 3607
+    },
+    {
+      "path": "api/admin/payments.js",
+      "sha256": "f11d69f98c26bccbce88f87569fc7e161ebcb3cfc95df34088fca6740f455e30",
+      "bytes": 786
+    },
+    {
+      "path": "api/admin/products.js",
+      "sha256": "86d3651ca89076029c7e4394838bc6ec4664865db0b46af4a33b468eff7d9a5b",
+      "bytes": 4004
+    },
+    {
+      "path": "api/admin/requests.js",
+      "sha256": "d2b1fec999f91aa086f133200796ca7ab8d8354c21e26a87ad3b9b5f4f808d6a",
+      "bytes": 3851
+    },
+    {
+      "path": "api/admin/users.js",
+      "sha256": "01328917d1ac66f399fff7ef48202df89d741ae7eb6e637729a0438d358d0325",
+      "bytes": 5913
+    },
+    {
+      "path": "api/auth/activate.js",
+      "sha256": "a7df94ee74fd7af0d85593ffad045f33802db09894a2b5f601d49f0cf6e307bc",
+      "bytes": 1520
+    },
+    {
+      "path": "api/auth/change-password.js",
+      "sha256": "82f82953446e977d74f5c0f559d893ec3baeff44fb062a05c24211f8e5ff5478",
+      "bytes": 1323
+    },
+    {
+      "path": "api/auth/forgot-password.js",
+      "sha256": "24f27d1b52d09055f9926f418c1a10eab03c0520469231e4a15189fbe88f0d99",
+      "bytes": 1559
+    },
+    {
+      "path": "api/auth/login.js",
+      "sha256": "4f2d5da6f15eaf8d8558e4c0118c1ceebffed407d4ad9f2ee7e9b8204acf3838",
+      "bytes": 2402
+    },
+    {
+      "path": "api/auth/logout.js",
+      "sha256": "dca86e7fc4a471e231c2ad9ec4c2ad479205c61182528e30b37be6cf7f38faa7",
+      "bytes": 377
+    },
+    {
+      "path": "api/auth/me.js",
+      "sha256": "ecbeb2311a9f3d85e3102f164cd17ed9f08940431f39519a55c029a4195287f0",
+      "bytes": 499
+    },
+    {
+      "path": "api/auth/register.js",
+      "sha256": "38638ab25d2a6e3cfca8ae8fbf28de023b7ad99d3e9f581f8f4c5f4c0bdad8d7",
+      "bytes": 2648
+    },
+    {
+      "path": "api/auth/reset-password.js",
+      "sha256": "9fdfb1dd9b7492f6bc007b3ecce9b9ee297d34ca9ff66ce6526ef605164e4770",
+      "bytes": 1400
+    },
+    {
+      "path": "api/billing/access.js",
+      "sha256": "99070bb31c7aa23b03fb31d04a80fc1c1bc130f515eb74ed42c5b5924596522c",
+      "bytes": 2532
+    },
+    {
+      "path": "api/billing/products.js",
+      "sha256": "acb398a2b31fe2e04c744a5443aa659bd50c71ce36a384202852f163113c049e",
+      "bytes": 961
+    },
+    {
+      "path": "api/catalog.js",
+      "sha256": "6b8897edf07269abe9c17deefc97e5d2f7959de4279192d53050263d9a9cede0",
+      "bytes": 296
+    },
+    {
+      "path": "api/exams/load.js",
+      "sha256": "816ae72462f5b00b35837888f994f0b40b07018780b6955b6220a6b8b9c475ce",
+      "bytes": 1712
+    },
+    {
+      "path": "api/health.js",
+      "sha256": "b7bb28f604aaa6941ac518f1d99908d113c152d5ad0845cdeb3e25fa631b7581",
+      "bytes": 568
+    },
+    {
+      "path": "api/newsletter/subscribe.js",
+      "sha256": "3282c8bb839a47e9543fe72d62814b0c82b529d1337c4790af03bad7a787026b",
+      "bytes": 904
+    },
+    {
+      "path": "api/payments/create-order.js",
+      "sha256": "27d4c960e9dfd8c87f2384415626e2285b1a5ee04759081794bb59ba6bedff52",
+      "bytes": 2432
+    },
+    {
+      "path": "api/payments/verify.js",
+      "sha256": "92e78892645fbc9cc2f48115f9578518c9724b2f95af8980587c9133c9e9bb67",
+      "bytes": 2052
+    },
+    {
+      "path": "api/payments/webhook.js",
+      "sha256": "1a05ea82667d16ff04af21f6254abf66aea8b09fd862dbcf124a9365082797ec",
+      "bytes": 2322
+    },
+    {
+      "path": "db/schema.sql",
+      "sha256": "a715a46ad6a68174be78c8b384a5b4387df6a594a71da386813224889bdcad35",
+      "bytes": 5189
+    },
+    {
+      "path": "docs/ACCOUNT_PAYMENT_DEPLOYMENT.md",
+      "sha256": "fda429d6b94fdbf5407b8bdf47844610ffa5f21af774e12eedd6b38939388031",
+      "bytes": 13170
+    },
+    {
+      "path": "docs/AI_QUESTION_ANSWER_JSON_GENERATION_PROMPT.md",
+      "sha256": "25826f1a53abcf336edf3918d3591be1e392005a023003878331649d0687ab24",
+      "bytes": 14216
+    },
+    {
+      "path": "frontend/src/App.jsx",
+      "sha256": "8d713676a67884c4f00a4bb34145b5ed6e612befa1056e80df61ffe944d71c63",
+      "bytes": 14534
+    },
+    {
+      "path": "frontend/src/admin-upload.jsx",
+      "sha256": "8d5fdc6600bc824b4372c694c34ccedd3216b82683d20a0d30e99669b9cc40af",
+      "bytes": 9991
+    },
+    {
+      "path": "frontend/src/components/AccountPages.jsx",
+      "sha256": "573a7faffbf734db18a22216499700d8d6b744e34f870eed226425c085c9b8bf",
+      "bytes": 9705
+    },
+    {
+      "path": "frontend/src/components/AdminAiGenerator.jsx",
+      "sha256": "6d796a8f0393b43efc20f255fdc5e808eca009c0a889810955525e48c4e3b57d",
+      "bytes": 24218
+    },
+    {
+      "path": "frontend/src/components/AdminManagement.jsx",
+      "sha256": "717e91b1fc9cc4493bc8f55ce4bcfbaac7b033096c69a9a993607ec451987d01",
+      "bytes": 19221
+    },
+    {
+      "path": "frontend/src/components/HomePage.jsx",
+      "sha256": "8f9b26bae05febf4249276c48db7bba1ef1e7e351b351786bbd99c254326cce0",
+      "bytes": 5285
+    },
+    {
+      "path": "frontend/src/components/LoginPage.jsx",
+      "sha256": "013f4ccea2f5be6e17d8bcb09e474bc6ca7a5b651490a7edcc0dc7c78062daf9",
+      "bytes": 3265
+    },
+    {
+      "path": "frontend/src/components/PricingPage.jsx",
+      "sha256": "25bbd9c732b033e156cf72586c28f9ca58a0340976b6cd5ea2c5e3bd89b26ae9",
+      "bytes": 7107
+    },
+    {
+      "path": "frontend/src/components/PublicSite.jsx",
+      "sha256": "314e154a9852e5550485b48c426dbfc0427a13edb203e1fae17ef3a08df8326f",
+      "bytes": 25008
+    },
+    {
+      "path": "frontend/src/components/SiteHeader.jsx",
+      "sha256": "55bbb7117b92d0bb436579364c6c8aa72e0df983fd010dd0116600a20f4c6b64",
+      "bytes": 3028
+    },
+    {
+      "path": "frontend/src/lib/adminAi.js",
+      "sha256": "8e081a02b16568d468458475932e728fdd87f71b72519263aa2e96fee067bc1f",
+      "bytes": 8613
+    },
+    {
+      "path": "frontend/src/lib/auth.js",
+      "sha256": "960cd57221f93d8e21b81dba724c910c6797515712ec6c9f12b60a2fc6cfac7f",
+      "bytes": 1417
+    },
+    {
+      "path": "frontend/src/prompts/AI_QUESTION_ANSWER_JSON_GENERATION_PROMPT.md",
+      "sha256": "25826f1a53abcf336edf3918d3591be1e392005a023003878331649d0687ab24",
+      "bytes": 14216
+    },
+    {
+      "path": "frontend/vite.config.js",
+      "sha256": "c7d5358b50090d871be04e95ad86fb6af5710105d38f6086bc179a25f542b716",
+      "bytes": 6801
+    },
+    {
+      "path": "package.json",
+      "sha256": "3d9a1ffec7f0923de061a9adec6205528330cc959ee6c63895f6311803eaed76",
+      "bytes": 1808
+    },
+    {
+      "path": "scripts/bootstrap-admin.mjs",
+      "sha256": "698c67c3e607eecf00b6bd5dde08ac05abc0c81d452e9d220827b38b43608a6d",
+      "bytes": 2807
+    },
+    {
+      "path": "tools/test_auth_billing.mjs",
+      "sha256": "767bc7aa8d9743c4e089224e6b7c82715370f90767ea08b2cdfe2c08297fa7dc",
+      "bytes": 4591
+    },
+    {
+      "path": "vercel.json",
+      "sha256": "6e9c0a3d4cb34b2daf00e62998ad1c8a5a953253f9b7116d97fed8396c9a29f7",
+      "bytes": 864
+    }
+  ],
+  "support_files": [
+    "PATCH_APPLY_INSTRUCTIONS.md",
+    "PATCH_TEST_REPORT.md"
+  ]
+}

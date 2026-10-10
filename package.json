@@ -2,7 +2,7 @@
   "name": "question-paper-navigator",
   "private": true,
   "scripts": {
-    "install:all": "npm --prefix frontend install",
+    "install:all": "npm install && npm --prefix frontend install",
     "dev": "npm --prefix frontend run dev",
     "build": "npm --prefix frontend run build",
     "test:web": "npm --prefix frontend run test",
@@ -17,6 +17,13 @@
     "test:datasets": "node tools/test_all_datasets.mjs",
     "test:admin-ai": "node tools/test_admin_ai.mjs",
     "test:session": "node tools/test_exam_session.mjs",
-    "test:bundle": "node tools/test_bundle_integrity.mjs"
+    "test:bundle": "node tools/test_bundle_integrity.mjs",
+    "dev:vercel": "vercel dev",
+    "db:bootstrap-admin": "node scripts/bootstrap-admin.mjs",
+    "test:auth-billing": "node tools/test_auth_billing.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0"
   }
 }

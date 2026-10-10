@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import {
-  Alert, Box, Button, Card, CardContent, Chip, Divider, FormControl, FormControlLabel,
+  Alert, Box, Button, Card, CardContent, Checkbox, Chip, Divider, FormControl, FormControlLabel,
   InputLabel, MenuItem, Select, Stack, Tab, Tabs, TextField, Typography, LinearProgress,
   Switch, Grid, IconButton, Tooltip
 } from '@mui/material'
@@ -55,6 +55,8 @@ export default function AdminAiGenerator() {
   const [chat, setChat] = useState([])
   const [chatInput, setChatInput] = useState('')
   const [testing, setTesting] = useState(false)
+  const [privateSaveBusy, setPrivateSaveBusy] = useState(false)
+  const [reviewedInferred, setReviewedInferred] = useState(false)
 
   const model = models[provider] || AI_PROVIDERS[provider].defaultModel
   const apiKey = keys[provider] || ''
@@ -119,6 +121,7 @@ export default function AdminAiGenerator() {
       const parsed = normalizeGeneratedPackage(parseJsonFromModelText(response.text))
       if (!parsed.questions || !parsed.answer_key || !parsed.paper) throw new Error('The AI response is missing required questions, answer_key, or paper sections.')
       setGenerated(parsed)
+      setReviewedInferred(false)
       setChat((prev) => [...prev, { role: 'system', text: `Generated a dataset using ${AI_PROVIDERS[provider].label} / ${model}.` }])
       const prepared = prepareDatasetForSave(parsed.questions, parsed.answer_key)
       setValidation(prepared.validation)
@@ -150,6 +153,7 @@ export default function AdminAiGenerator() {
 
   async function saveGenerated() {
     if (!generated) return
+    if (Object.keys(generated.answer_key?.inferred_answers || {}).length > 0 && !reviewedInferred) { setStatus({ severity: 'warning', text: 'Review inferred answers and confirm before saving.' }); return }
     try {
       const prepared = prepareDatasetForSave(generated.questions, generated.answer_key)
       if (!prepared.validation.ok) {
@@ -177,6 +181,42 @@ export default function AdminAiGenerator() {
     }
   }
 
+
+  async function saveGeneratedPrivately() {
+    if (!generated) return
+    if (Object.keys(generated.answer_key?.inferred_answers || {}).length > 0 && !reviewedInferred) { setStatus({ severity: 'warning', text: 'Review inferred answers and confirm before saving privately.' }); return }
+    setPrivateSaveBusy(true)
+    setStatus(null)
+    try {
+      const prepared = prepareDatasetForSave(generated.questions, generated.answer_key)
+      if (!prepared.validation.ok) {
+        setValidation(prepared.validation)
+        throw new Error('Fix the dataset validation errors before saving privately.')
+      }
+      const aiMeta = generated.paper && typeof generated.paper === 'object' ? generated.paper : {}
+      const paper = {
+        ...prepared.meta,
+        ...aiMeta,
+        paper_id: aiMeta.paper_id || prepared.meta.paper_id,
+        booklet_code: prepared.meta.booklet_code,
+        question_count: prepared.meta.question_count,
+        duration_minutes: Number(aiMeta.duration_minutes || prepared.meta.duration_minutes || 150),
+        available_languages: aiMeta.available_languages || prepared.meta.available_languages,
+      }
+      const questions = { ...prepared.questions, paper_id: paper.paper_id, booklet_code: paper.booklet_code }
+      const answer_key = { ...prepared.answers, paper_id: paper.paper_id, booklet_code: paper.booklet_code }
+      const response = await fetch('/api/admin/assessments', {
+        method: 'POST', credentials: 'same-origin', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ paper, questions, answer_key, replace: false }),
+      })
+      const body = await response.json().catch(() => ({}))
+      if (!response.ok || !body.ok) throw new Error(body.message || `Private save failed (${response.status}).`)
+      setStatus({ severity: 'success', text: `Stored ${paper.paper_id} privately in the database. Next, open Admin → Accounts & Access → Products and attach this paper to a price. This does not modify the free H/K/L/M/N mock tests.` })
+    } catch (error) {
+      setStatus({ severity: 'error', text: error.message || 'Private assessment save failed.' })
+    } finally { setPrivateSaveBusy(false) }
+  }
+
   const generatedQuestionRecords = generated?.questions?.questions?.length || 0
   const generatedLogicalCount = generated?.paper?.question_count || new Set((generated?.questions?.questions || []).map((q) => q.question_number)).size
   const inferredCount = Object.keys(generated?.answer_key?.inferred_answers || {}).length
@@ -188,9 +228,9 @@ export default function AdminAiGenerator() {
           <Stack direction={{ xs: 'column', md: 'row' }} justifyContent="space-between" alignItems={{ xs: 'stretch', md: 'center' }} gap={1.5}>
             <Box>
               <Stack direction="row" spacing={1} alignItems="center"><AutoAwesomeRoundedIcon color="primary" /><Typography variant="h5">AI Document Generator</Typography></Stack>
-              <Typography color="text.secondary" sx={{ mt: 0.4 }}>Admin-only workspace. Keys stay in the browser session and are sent only to the local Vite admin proxy; they are not written to exam data.</Typography>
+              <Typography color="text.secondary" sx={{ mt: 0.4 }}>Admin-only workspace. Provider keys are sent with the request over HTTPS and are not saved in exam data. Keys can optionally be retained for this browser session only.</Typography>
             </Box>
-            <Chip label="LOCAL ADMIN ONLY" color="warning" variant="outlined" />
+            <Chip label="ADMIN-ONLY WORKSPACE" color="primary" variant="outlined" />
           </Stack>
 
           <Grid container spacing={1.5}>
@@ -232,7 +272,7 @@ export default function AdminAiGenerator() {
 
         <TabPanel active={activeTab} index={0}>
           <Stack spacing={2}>
-            <Alert severity="info">Upload the question paper and the answer key. The full bundled extraction prompt is sent with both PDFs; generated JSON is normalized and checked by the existing project validator before saving.</Alert>
+            <Alert severity="info">Upload the question paper and the answer key. The full bundled extraction prompt is sent with both PDFs; generated JSON is normalized and checked by the existing project validator before saving. On Vercel, keep the combined request payload small (the serverless limit is lower than the local uploader limit).</Alert>
             <Box component="details" sx={{ border: 1, borderColor: 'divider', borderRadius: 3, p: 1.2 }}>
               <Box component="summary" sx={{ cursor: 'pointer', fontWeight: 800, p: 0.7 }}>Master extraction prompt (expand to review or edit)</Box>
               <Stack spacing={1.2} sx={{ pt: 1 }}>
@@ -268,13 +308,16 @@ export default function AdminAiGenerator() {
               <Grid size={{ xs: 6, sm: 3 }}><Metric label="Answers" value={generated.answer_key.count || Object.keys(generated.answer_key.answers || {}).length} /></Grid>
               <Grid size={{ xs: 6, sm: 3 }}><Metric label="Inferred" value={inferredCount} /></Grid>
             </Grid>
-            {validation && <Alert severity={validation.ok ? 'success' : 'error'}>{validation.ok ? 'Validation PASS — ready for project save.' : validation.errors.join(' ')}</Alert>}
+            {validation && <Alert severity={validation.ok ? 'success' : 'error'}>{validation.ok ? 'Structural validation PASS — inspect inferred answers and source confidence before publishing.' : validation.errors.join(' ')}</Alert>}
+            {inferredCount > 0 && <Alert severity="warning">This dataset contains {inferredCount} inferred answer(s). They are not official answers. Review the answer key and source PDFs before saving or publishing.</Alert>}
+            {inferredCount > 0 && <FormControlLabel control={<Checkbox checked={reviewedInferred} onChange={(e) => setReviewedInferred(e.target.checked)} />} label="I have reviewed the inferred answers and approve this dataset for saving." />}
             <Divider />
             <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1} flexWrap="wrap">
               <Button variant="outlined" startIcon={<DownloadRoundedIcon />} onClick={() => downloadJson('questions.json', generated.questions)}>Download questions.json</Button>
               <Button variant="outlined" startIcon={<DownloadRoundedIcon />} onClick={() => downloadJson('answer_key.json', generated.answer_key)}>Download answer_key.json</Button>
               <Button variant="outlined" startIcon={<DownloadRoundedIcon />} onClick={() => downloadJson('paper.json', generated.paper)}>Download paper.json</Button>
-              <Button variant="contained" color="success" startIcon={<SaveRoundedIcon />} onClick={saveGenerated} disabled={!validation?.ok}>Save to Project</Button>
+              {import.meta.env.DEV && <Button variant="contained" color="success" startIcon={<SaveRoundedIcon />} onClick={saveGenerated} disabled={!validation?.ok || (inferredCount > 0 && !reviewedInferred)}>Save to Local Project</Button>}
+              <Button variant="contained" color="secondary" startIcon={<SaveRoundedIcon />} onClick={saveGeneratedPrivately} disabled={!validation?.ok || privateSaveBusy || (inferredCount > 0 && !reviewedInferred)}>{privateSaveBusy ? 'Saving privately…' : 'Save Private Assessment'}</Button>
             </Stack>
             <Box component="pre" sx={{ m: 0, p: 2, maxHeight: 460, overflow: 'auto', borderRadius: 3, bgcolor: 'action.hover', fontSize: 12 }}>{JSON.stringify(generated, null, 2)}</Box>
           </Stack>}

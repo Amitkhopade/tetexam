@@ -11,7 +11,7 @@ function durationLabel(minutes = 150) {
   return `${hours ? `${hours} hr ` : ''}${mins ? `${mins} min` : ''}`.trim()
 }
 
-export default function HomePage({ papers, onStart, onOpenExams, showHero = true }) {
+export default function HomePage({ papers, onStart, onOpenExams, showHero = true, greeting = '' }) {
   const featured = papers
   const [languagesByPaper, setLanguagesByPaper] = useState(() => Object.fromEntries((papers || []).map((paper) => [paper.paper_id, (paper.available_languages || ['en'])[0] || 'en'])))
   function selectedLanguage(paper) { return languagesByPaper[paper.paper_id] || (paper.available_languages || ['en'])[0] || 'en' }
@@ -22,6 +22,7 @@ export default function HomePage({ papers, onStart, onOpenExams, showHero = true
         {showHero && <Card sx={{ overflow: 'hidden', position: 'relative' }}>
           <CardContent sx={{ p: { xs: 2.5, md: 4.5 } }}>
             <Stack spacing={2.2}>
+              {greeting && <Typography variant="subtitle1" color="text.secondary">Welcome back, {greeting}.</Typography>}
               <Chip label="TIMED ASSESSMENT PLATFORM" color="primary" sx={{ alignSelf: 'flex-start' }} />
               <Typography variant="h2" sx={{ fontSize: { xs: 32, md: 52 }, maxWidth: 850, lineHeight: 1.06 }}>Practice smarter with a clean, timed exam experience.</Typography>
               <Typography color="text.secondary" sx={{ maxWidth: 760, fontSize: { md: 18 } }}>Choose a paper set, start the timer, answer every question, and receive your final correct-answer score automatically when you submit or the timer expires.</Typography>

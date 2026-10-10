@@ -126,7 +126,7 @@ function adminAiPlugin() {
 
 export default defineConfig({
   plugins: [react(), adminUploadPlugin(), adminAiPlugin()],
-  base: './',
+  base: '/',
   build: {
     sourcemap: false,
     target: 'es2022',

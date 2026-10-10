@@ -216,7 +216,7 @@ export async function callAdminAi({ provider, model, apiKey, mode, questionPdf, 
   if (questionPdf) payload.questionPdf = { name: questionPdf.name, dataUrl: await fileToDataUrl(questionPdf) }
   if (answerPdf) payload.answerPdf = { name: answerPdf.name, dataUrl: await fileToDataUrl(answerPdf) }
 
-  const response = await fetch('/__admin/ai/run', {
+  const response = await fetch('/api/admin/ai/run', {
     method: 'POST',
     headers: { 'content-type': 'application/json', 'x-qpn-admin-ai': '1' },
     body: JSON.stringify(payload),

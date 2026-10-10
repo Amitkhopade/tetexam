@@ -11,6 +11,7 @@ import { lightTheme } from './theme/theme'
 import { prepareDatasetForSave, saveDatasetToProject } from './lib/adminUpload'
 import { getSession, logout } from './lib/auth'
 import AdminAiGenerator from './components/AdminAiGenerator'
+import AdminManagement from './components/AdminManagement'
 
 async function readJsonFile(file) {
   if (!file) return null
@@ -102,11 +103,20 @@ function DatasetUploadPanel() {
 }
 
 function AdminUpload() {
-  const session = getSession()
+  const [session, setSession] = useState(null)
+  const [authLoading, setAuthLoading] = useState(true)
   const [tab, setTab] = useState(0)
 
+  React.useEffect(() => {
+    let cancelled = false
+    getSession().then((user) => { if (!cancelled) setSession(user) }).finally(() => { if (!cancelled) setAuthLoading(false) })
+    return () => { cancelled = true }
+  }, [])
+
+  if (authLoading) return <ThemeProvider theme={lightTheme}><CssBaseline /><Box sx={{ minHeight: '100vh', display: 'grid', placeItems: 'center' }}><Typography>Checking administrator session…</Typography></Box></ThemeProvider>
+
   if (!session || session.role !== 'admin') {
-    return <ThemeProvider theme={lightTheme}><CssBaseline /><Box sx={{ minHeight: '100vh', display: 'grid', placeItems: 'center', p: 3 }}><Card sx={{ maxWidth: 520, width: '100%' }}><CardContent><Stack spacing={2}><Typography variant="h5">Administrator access required</Typography><Typography color="text.secondary">Sign in as an administrator before opening the admin workspace.</Typography><Stack direction="row" spacing={1}><Button variant="contained" onClick={() => { window.location.href = './' }}>Go to Login</Button>{session && <Button variant="outlined" onClick={() => { logout(); window.location.href = './' }}>Sign out</Button>}</Stack></Stack></CardContent></Card></Box></ThemeProvider>
+    return <ThemeProvider theme={lightTheme}><CssBaseline /><Box sx={{ minHeight: '100vh', display: 'grid', placeItems: 'center', p: 3 }}><Card sx={{ maxWidth: 520, width: '100%' }}><CardContent><Stack spacing={2}><Typography variant="h5">Administrator access required</Typography><Typography color="text.secondary">Sign in as an administrator before opening the admin workspace.</Typography><Stack direction="row" spacing={1}><Button variant="contained" onClick={() => { window.location.href = '/login' }}>Go to Login</Button>{session && <Button variant="outlined" onClick={async () => { await logout(); window.location.href = '/' }}>Sign out</Button>}</Stack></Stack></CardContent></Card></Box></ThemeProvider>
   }
 
   return <ThemeProvider theme={lightTheme}><CssBaseline />
@@ -115,16 +125,18 @@ function AdminUpload() {
         <Stack spacing={2}>
           <Stack direction={{ xs: 'column', md: 'row' }} justifyContent="space-between" alignItems={{ xs: 'stretch', md: 'center' }} gap={1}>
             <Box><Stack direction="row" spacing={1} alignItems="center"><FolderRoundedIcon color="primary" /><Typography variant="h4">Admin Workspace</Typography></Stack><Typography color="text.secondary" sx={{ mt: .5 }}>Dataset operations and AI-assisted document generation. Student exam pages remain outside this workspace.</Typography></Box>
-            <Button variant="outlined" onClick={() => { logout(); window.location.href = './' }}>Logout</Button>
+            <Button variant="outlined" onClick={async () => { await logout(); window.location.href = '/' }}>Logout</Button>
           </Stack>
           <Card><CardContent>
             <Tabs value={tab} onChange={(_, v) => setTab(v)} variant="scrollable" allowScrollButtonsMobile>
               <Tab label="AI Document Generator" icon={<span>✦</span>} iconPosition="start" />
               <Tab label="Manual JSON Upload" icon={<CloudUploadRoundedIcon />} iconPosition="start" />
+              <Tab label="Accounts & Access" />
             </Tabs>
           </CardContent></Card>
           {tab === 0 && <AdminAiGenerator />}
           {tab === 1 && <DatasetUploadPanel />}
+          {tab === 2 && <AdminManagement />}
         </Stack>
       </Box>
     </Box>

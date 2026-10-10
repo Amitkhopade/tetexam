@@ -23,3 +23,7 @@ source/*.pdf
 *.bak
 *.bak-*
 *.log
+.vercel
+.env*
+
+.env.production.local
